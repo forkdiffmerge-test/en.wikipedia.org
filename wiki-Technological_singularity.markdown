@@ -9,15 +9,29 @@ The term was popularized by science fiction writer [Vernor Vinge](http://en.wiki
 In the present, the concept has been popularized by futurists like [Ray Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil"), and it is expected by proponents to occur sometime in the 21st century, although estimates vary.
 
 ## Contents
-* [1 Basic concepts](#Basic_concepts)* [2 History of the idea](#History_of_the_idea)* 
-[3 Intelligence explosion](#Intelligence_explosion)
-    * [3.1 Speed improvements](#Speed_improvements)    * [3.2 Intelligence improvements](#Intelligence_improvements)    * 
-[3.3 Impact](#Impact)
+
+* [1 Basic concepts](#Basic_concepts)
+* [2 History of the idea](#History_of_the_idea)
+* [3 Intelligence explosion](#Intelligence_explosion)
+    * [3.1 Speed improvements](#Speed_improvements)
+    * [3.2 Intelligence improvements](#Intelligence_improvements)
+    * [3.3 Impact](#Impact)
         * [3.3.1 Existential risk](#Existential_risk)
+
     * [3.4 Implications for human society](#Implications_for_human_society)
-* [4 Accelerating change](#Accelerating_change)* [5 Criticisms](#Criticisms)* [6 In popular culture](#In_popular_culture)* [7 See also](#See_also)* [8 Notes](#Notes)* [9 References](#References)* 
-[10 External links](#External_links)
-    * [10.1 Non-fiction books](#Non-fiction_books)    * [10.2 Essays and articles](#Essays_and_articles)    * [10.3 Singularity AI projects](#Singularity_AI_projects)    * [10.4 Fiction](#Fiction)    * [10.5 Other links](#Other_links)
+
+* [4 Accelerating change](#Accelerating_change)
+* [5 Criticisms](#Criticisms)
+* [6 In popular culture](#In_popular_culture)
+* [7 See also](#See_also)
+* [8 Notes](#Notes)
+* [9 References](#References)
+* [10 External links](#External_links)
+    * [10.1 Non-fiction books](#Non-fiction_books)
+    * [10.2 Essays and articles](#Essays_and_articles)
+    * [10.3 Singularity AI projects](#Singularity_AI_projects)
+    * [10.4 Fiction](#Fiction)
+    * [10.5 Other links](#Other_links)
 
 ## [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=1 "Edit section: Basic concepts")]Basic concepts
 [Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil") writes that, due to [paradigm shifts](http://en.wikipedia.org/wiki/Paradigm_shift "Paradigm shift"), a trend of exponential growth extends [Moore's law](http://en.wikipedia.org/wiki/Moore%27s_law "Moore's law") from [integrated circuits](http://en.wikipedia.org/wiki/Integrated_circuits "Integrated circuits") to earlier [transistors](http://en.wikipedia.org/wiki/Transistor "Transistor"), [vacuum tubes](http://en.wikipedia.org/wiki/Vacuum_tube "Vacuum tube"), [relays](http://en.wikipedia.org/wiki/Relay "Relay"), and [electromechanical](http://en.wikipedia.org/wiki/Electromechanics "Electromechanics") computers. He predicts that the exponential growth will continue, and that in a few decades the computing power of all computers will exceed that of human brains, with superhuman [artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") appearing around the same time.Many of the most recognized writers on the singularity, such as Vernor Vinge and Ray Kurzweil, define the concept in terms of the technological creation of superintelligence, and argue that it is difficult or impossible for present-day humans to predict what a post-singularity would be like, due to the difficulty of imagining the intentions and capabilities of superintelligent entities.[[4]](#cite_note-vinge1993-3)[[5]](#cite_note-singularity-4)[[6]](#cite_note-singinst.org-5) The term "technological singularity" was originally coined by Vinge, who made an analogy between the breakdown in our ability to predict what would happen after the development of superintelligence and the breakdown of the predictive ability of modern [physics](http://en.wikipedia.org/wiki/Physics "Physics") at the [space-time singularity](http://en.wikipedia.org/wiki/Gravitational_singularity "Gravitational singularity") beyond the event horizon of a [black hole](http://en.wikipedia.org/wiki/Black_hole "Black hole").[[6]](#cite_note-singinst.org-5)
@@ -218,574 +232,723 @@ In 2012, concept band [SOLA-MI](http://sola-mi.com), released "NEXUS (Original M
 In the sci-fi webseries [Sync](http://imdb.com/title/tt2317127/), a [computer virus](http://en.wikipedia.org/wiki/Computer_virus "Computer virus") takes over a computerized human and becomes a singularity.
 
 ## [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=12 "Edit section: See also")]See also
-[Sustainable development  portal](http://en.wikipedia.org/wiki/Portal:Sustainable_development "Portal:Sustainable development")* [Democratic transhumanism](http://en.wikipedia.org/wiki/Democratic_transhumanism "Democratic transhumanism")* [Development criticism](http://en.wikipedia.org/wiki/Development_criticism "Development criticism")* [Doomsday argument](http://en.wikipedia.org/wiki/Doomsday_argument "Doomsday argument")* [Eschatology#Empirical and Rationalist based](http://en.wikipedia.org/wiki/Eschatology#Empirical_and_Rationalist_based "Eschatology")* [Hyperbolic growth](http://en.wikipedia.org/wiki/Hyperbolic_growth "Hyperbolic growth")* [List of emerging technologies](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")* 
-[Logarithmic timeline](http://en.wikipedia.org/wiki/Logarithmic_timeline "Logarithmic timeline") and
-[detailed logarithmic timeline](http://en.wikipedia.org/wiki/Detailed_logarithmic_timeline "Detailed logarithmic timeline")
-* [Molecular engineering](http://en.wikipedia.org/wiki/Molecular_engineering "Molecular engineering")* [Novelty theory](http://en.wikipedia.org/wiki/Novelty_theory#Timewave_zero_and_the_I_Ching "Novelty theory")* [Omega Point](http://en.wikipedia.org/wiki/Omega_Point "Omega Point")* [Positive feedback](http://en.wikipedia.org/wiki/Positive_feedback "Positive feedback")* [Post-scarcity economy](http://en.wikipedia.org/wiki/Post-scarcity_economy "Post-scarcity economy")* [Predictive medicine](http://en.wikipedia.org/wiki/Predictive_medicine "Predictive medicine")* [Sentience quotient](http://en.wikipedia.org/wiki/Sentience_quotient "Sentience quotient")* [Simulated reality](http://en.wikipedia.org/wiki/Simulated_reality "Simulated reality")* [Singularitarianism](http://en.wikipedia.org/wiki/Singularitarianism "Singularitarianism")* [Technocapitalism](http://en.wikipedia.org/wiki/Technocapitalism "Technocapitalism")* [Technological determinism](http://en.wikipedia.org/wiki/Technological_determinism "Technological determinism")* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")* [Technological utopianism](http://en.wikipedia.org/wiki/Technological_utopianism "Technological utopianism")* [Tipping point](http://en.wikipedia.org/wiki/Tipping_point "Tipping point")* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")
+[Sustainable development  portal](http://en.wikipedia.org/wiki/Portal:Sustainable_development "Portal:Sustainable development")
+* [Democratic transhumanism](http://en.wikipedia.org/wiki/Democratic_transhumanism "Democratic transhumanism")
+* [Development criticism](http://en.wikipedia.org/wiki/Development_criticism "Development criticism")
+* [Doomsday argument](http://en.wikipedia.org/wiki/Doomsday_argument "Doomsday argument")
+* [Eschatology#Empirical and Rationalist based](http://en.wikipedia.org/wiki/Eschatology#Empirical_and_Rationalist_based "Eschatology")
+* [Hyperbolic growth](http://en.wikipedia.org/wiki/Hyperbolic_growth "Hyperbolic growth")
+* [List of emerging technologies](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")
+* [Logarithmic timeline](http://en.wikipedia.org/wiki/Logarithmic_timeline "Logarithmic timeline") and[detailed logarithmic timeline](http://en.wikipedia.org/wiki/Detailed_logarithmic_timeline "Detailed logarithmic timeline")
+* [Molecular engineering](http://en.wikipedia.org/wiki/Molecular_engineering "Molecular engineering")
+* [Novelty theory](http://en.wikipedia.org/wiki/Novelty_theory#Timewave_zero_and_the_I_Ching "Novelty theory")
+* [Omega Point](http://en.wikipedia.org/wiki/Omega_Point "Omega Point")
+* [Positive feedback](http://en.wikipedia.org/wiki/Positive_feedback "Positive feedback")
+* [Post-scarcity economy](http://en.wikipedia.org/wiki/Post-scarcity_economy "Post-scarcity economy")
+* [Predictive medicine](http://en.wikipedia.org/wiki/Predictive_medicine "Predictive medicine")
+* [Sentience quotient](http://en.wikipedia.org/wiki/Sentience_quotient "Sentience quotient")
+* [Simulated reality](http://en.wikipedia.org/wiki/Simulated_reality "Simulated reality")
+* [Singularitarianism](http://en.wikipedia.org/wiki/Singularitarianism "Singularitarianism")
+* [Technocapitalism](http://en.wikipedia.org/wiki/Technocapitalism "Technocapitalism")
+* [Technological determinism](http://en.wikipedia.org/wiki/Technological_determinism "Technological determinism")
+* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")
+* [Technological utopianism](http://en.wikipedia.org/wiki/Technological_utopianism "Technological utopianism")
+* [Tipping point](http://en.wikipedia.org/wiki/Tipping_point "Tipping point")
+* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")
+
 ## [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=13 "Edit section: Notes")]Notes
-1. 
-[^](#cite_ref-0)
-Superintelligence. Answer to the 2009 EDGE QUESTION: "WHAT WILL CHANGE EVERYTHING?": [http://www.nickbostrom.com/views/superintelligence.pdf](http://www.nickbostrom.com/views/superintelligence.pdf)
-1. 
-[^](#cite_ref-Singularity.2C_Intelligence_Explosion_2010_1-0)
-David Chalmers on Singularity, Intelligence Explosion. April 8th, 2010. Singularity Institute for Artificial Intelligence: [http://singinst.org/blog/2010/04/08/david-chalmers-on-singularity-intelligence-explosion/](http://singinst.org/blog/2010/04/08/david-chalmers-on-singularity-intelligence-explosion/)
-1. 
-[^](#cite_ref-2)
-Editor's Blog Why an Intelligence Explosion is Probable By: Richard Loosemore and Ben Goertzel. March 7, 2011; hplusmagazine: [http://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/](http://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/)
-1. 
-^ [a](#cite_ref-vinge1993_3-0)[b](#cite_ref-vinge1993_3-1)[c](#cite_ref-vinge1993_3-2)
-Vinge, Vernor. ["The Coming Technological Singularity: How to Survive in the Post-Human Era"](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), originally in , G. A. Landis, ed., NASA Publication CP-10129, pp. 115-126, 1993
-1. 
-[^](#cite_ref-singularity_4-0)
-Ray Kurzweil, The Singularity is Near, pp. 135-136. Penguin Group, 2005.
-1. 
-^ [a](#cite_ref-singinst.org_5-0)[b](#cite_ref-singinst.org_5-1)[c](#cite_ref-singinst.org_5-2)[d](#cite_ref-singinst.org_5-3)
-["What is the Singularity? | Singularity Institute for Artificial Intelligence"](http://singinst.org/overview/whatisthesingularity). Singinst.org. [http://singinst.org/overview/whatisthesingularity](http://singinst.org/overview/whatisthesingularity). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-hplusmagazine_6-0)
-["h+ Magazine | Covering technological, scientific, and cultural trends that are changing human beings in fundamental ways"](http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai). Hplusmagazine.com. [http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai](http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai). Retrieved 2011-09-09. 
-1. 
-^ [a](#cite_ref-yudkowsky.net_7-0)[b](#cite_ref-yudkowsky.net_7-1)[c](#cite_ref-yudkowsky.net_7-2)
-[Yudkowsky, Eliezer](http://en.wikipedia.org/wiki/Eliezer_Yudkowsky "Eliezer Yudkowsky"). [The Singularity: Three Major Schools](http://yudkowsky.net/singularity/schools)
-1. 
-[^](#cite_ref-agi-conf_8-0)
-[Sandberg, Anders](http://en.wikipedia.org/wiki/Anders_Sandberg "Anders Sandberg"). [An overview of models of technological singularity](http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf)
-1. 
-^ [a](#cite_ref-kurzweilai.net_9-0)[b](#cite_ref-kurzweilai.net_9-1)
-["Max More and Ray Kurzweil on the Singularity"](http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2). KurzweilAI. [http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2](http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-stat_10-0)
-Good, I. J. ["Speculations Concerning the First Ultraintelligent Machine"](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf), , vol. 6, 1965.
-1. 
-[^](#cite_ref-Paul_Ehrlich_June_2008_11-0)
-Ehrlich, Paul. [The Dominant Animal: Human Evolution and the Environment](http://www.longnow.org/seminars/02008/jun/27/dominant-animal-human-evolution-and-environment/)
-1. 
-[^](#cite_ref-businessweek_12-0)
-[Superbrains born of silicon will change everything.](http://www.businessweek.com/1999/99_35/b3644021.htm)
-1. 
-[^](#cite_ref-ultraintelligent_13-0)
-Good, I. J., "Speculations Concerning the First Ultraintelligent Machine", Franz L. Alt and Morris Rubinoff, ed., Advances in Computers (Academic Press) 6: 31–88, 1965.
-1. 
-[^](#cite_ref-acceleratingfuture_14-0)
-[The Human Importance of the Intelligence Explosion](http://www.acceleratingfuture.com/people-blog/2007/the-human-importance-of-the-intelligence-explosion/)
-1. 
-[^](#cite_ref-ultraintelligent1_15-0)
-Good, I. J. 1965 Speculations Concerning the First Ultraintelligent Machine. Pp 31-88 in Advances in Computers, 6, F. L. Alt and M Rubinoff, eds. New York: Academic Press.
-1. 
-[^](#cite_ref-google_16-0)
-Ray Kurzweil, , Viking, 1999, [p. 30](http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA630#v=onepage&q&f=false) and [p. 32](http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA632#v=onepage&q&f=false)
-1. 
-[^](#cite_ref-singularity2_17-0)
-Ray Kurzweil, , Penguin Group, 2005
-1. 
-[^](#cite_ref-singularity3_18-0)
-Ray Kurzweil, The Singularity is Near, p. 9. Penguin Group, 2005
-1. 
-[^](#cite_ref-transformation_19-0)
-Ray Kurzweil, , pp. 135-136. Penguin Group, 2005. The context for this statement is as follows: "we will be producing about 1026 to 1029 cps of nonbiological computation per year in the early 2030s. This is roughly equal to our estimate for the capacity of all living biological human intelligence ... This state of computation in the early 2030s will not represent the Singularity, however, because it does not yet correspond to a profound expansion of our intelligence. By the mid-2040s, however, that one thousand dollars' worth of computation will be equal to 1026 cps, so the intelligence created per year (at a total cost of about $1012) will be about one billion times more powerful than all human intelligence today. That  indeed represent a profound change, and it is for that reason that I set the date for the Singularity—representing a profound and disruptive transformation in human capability—as 2045."
-1. 
-^ [a](#cite_ref-positive-and-negative_20-0)[b](#cite_ref-positive-and-negative_20-1)[c](#cite_ref-positive-and-negative_20-2)
-Yudkowsky, Eliezer (2008), Bostrom, Nick; Cirkovic, Milan, eds., ["Artificial Intelligence as a Positive and Negative Factor in Global Risk"](http://singinst.org/AIRisk.pdf),  (Oxford University Press): 303, [Bibcode](http://en.wikipedia.org/wiki/Bibcode "Bibcode")[2008gcr..book..303Y](http://adsabs.harvard.edu/abs/2008gcr..book..303Y), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-19-857050-9](http://en.wikipedia.org/wiki/Special:BookSources/978-0-19-857050-9 "Special:BookSources/978-0-19-857050-9"), [http://singinst.org/AIRisk.pdf](http://singinst.org/AIRisk.pdf) 
-1. 
-[^](#cite_ref-theuncertainfuture_21-0)
-[The Uncertain Future; a future technology and world-modeling project](http://www.theuncertainfuture.com/)
-1. 
-[^](#cite_ref-catastrophic_22-0)
-[GLOBAL CATASTROPHIC RISKS SURVEY (2008) Technical Report 2008/1 Published by Future of Humanity Institute, Oxford University. Anders Sandberg and Nick Bostrom](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0020/3854/global-catastrophic-risks-report.pdf)
-1. 
-[^](#cite_ref-nickbostrom_23-0)
-[Existential Risks; Analyzing Human Extinction Scenarios and Related Hazards, Nick Bostrom](http://www.nickbostrom.com/existential/risks.html)
-1. 
-^ [a](#cite_ref-spectrum.ieee.org_24-0)[b](#cite_ref-spectrum.ieee.org_24-1)
-["Tech Luminaries Address Singularity - IEEE Spectrum"](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity). Spectrum.ieee.org. [http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-ieee_25-0)
-["Who's Who In The Singularity - IEEE Spectrum"](http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity). Spectrum.ieee.org. [http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity](http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-The_Expounder_of_Primitive_Christianity_26-0)
-Thornton, Richard (1847), [The Expounder of Primitive Christianity](http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false), 4, Ann Arbor, Michigan, p. 281, [http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false](http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false) 
-1. 
-[^](#cite_ref-oxfordjournals_27-0)
-A M Turing, , 1951, reprinted  (1996) 4(3): 256-260 [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier"):[10.1093/philmat/4.3.256](http://dx.doi.org/10.1093%2Fphilmat%2F4.3.256)[[1]](http://philmat.oxfordjournals.org/content/4/3/256.full.pdf)
-1. 
-[^](#cite_ref-mathematical_28-0)
-Ulam, S., Tribute to John von Neumann, Bulletin of the American Mathematical Society, vol 64, nr 3, part 2, May, 1958, p1-49.
-1. 
-[^](#cite_ref-google4_29-0)
-Dooling, Richard.  (2008), [p. 88](http://books.google.com/books?id=VbBRsv1lxsUC&lpg=PP1&pg=PA88#v=onepage&q&f=false)
-1. 
-[^](#cite_ref-technological_30-0)
-Vinge did not actually use the phrase "technological singularity" in the Omni op-ed, but he did use this phrase in the short story collection  from 1988, writing in the introduction to his story "The Whirligig of Time" (p. 72):  soon. 
-1. 
-[^](#cite_ref-std_31-0)
-Solomonoff, R.J. "The Time Scale of Artificial Intelligence: Reflections on Social Effects," Human Systems Management, Vol 5, pp. 149-153, 1985, [http://world.std.com/~rjs/timesc.pdf](http://world.std.com/~rjs/timesc.pdf).
-1. 
-[^](#cite_ref-When_will_computer_hardware_match_the_human_brain.3F_32-0)
-Moravec, Hans (1998), ["When will computer hardware match the human brain?"](http://www.transhumanist.com/volume1/moravec.htm), 1, [http://www.transhumanist.com/volume1/moravec.htm](http://www.transhumanist.com/volume1/moravec.htm), retrieved 2006-06-23. 
-1. 
-[^](#cite_ref-The_Age_of_Robots_33-0)
-Moravec, Hans (June 1993). ["The Age of Robots"](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html). [http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html). Retrieved 2006-06-23. 
-1. 
-[^](#cite_ref-Robot_Predictions_Evolution_34-0)
-Moravec, Hans (April 2004). ["Robot Predictions Evolution"](http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html). [http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html). Retrieved 2006-06-23. 
-1. 
-[^](#cite_ref-google5_35-0)
-Dooling, Richard.  (2008), [p. 89](http://books.google.com/books?id=VbBRsv1lxsUC&lpg=PP1&pg=PA89#v=onepage&q&f=false)
-1. 
-[^](#cite_ref-36)
-[The Coming Technological Singularity: How to Survive in the Post-Human Era](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), by Vernor Vinge, Department of Mathematical Sciences, San Diego State University, (c) 1993 by Vernor Vinge.
-1. 
-[^](#cite_ref-JoyFuture_37-0)
-[Joy, Bill](http://en.wikipedia.org/wiki/Bill_Joy "Bill Joy") (April 2000), ["Why the future doesn’t need us"](http://www.wired.com/wired/archive/8.04/joy.html),  (Viking Adult) (8.04), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03249-2](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03249-2 "Special:BookSources/0-670-03249-2"), [http://www.wired.com/wired/archive/8.04/joy.html](http://www.wired.com/wired/archive/8.04/joy.html), retrieved 2007-08-07 
-1. 
-[^](#cite_ref-episode_38-0)
-[Episode dated 23 August 2006](http://www.imdb.com/title/tt847969/) at the [Internet Movie Database](http://en.wikipedia.org/wiki/Internet_Movie_Database "Internet Movie Database")
-1. 
-^ [a](#cite_ref-Hanson_39-0)[b](#cite_ref-Hanson_39-1)
-Robin Hanson, ["Economics Of The Singularity"](http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity), , [http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity](http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity), retrieved 2008-09-11  & [Long-Term Growth As A Sequence of Exponential Modes](http://hanson.gmu.edu/longgrow.pdf)
-1. 
-[^](#cite_ref-singularityu_40-0)
-[About Singularity University](http://singularityu.org/about/) at its official website
-1. 
-[^](#cite_ref-sens_41-0)
-[de Grey, Aubrey](http://en.wikipedia.org/wiki/Aubrey_de_Grey "Aubrey de Grey"). [The singularity and the Methuselarity: similarities and differences](http://www.sens.org/files/sens/FHTI07-deGrey.pdf)[]
-1. 
-[^](#cite_ref-Apocalyptic_AI_-_Visions_of_Heaven_in_Robotics.2C_Artificial_Intelligence.2C_and_Virtual_Reality_42-0)
-Geraci, Robert M., , [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-19-539302-6](http://en.wikipedia.org/wiki/Special:BookSources/978-0-19-539302-6 "Special:BookSources/978-0-19-539302-6") 
-1. 
-[^](#cite_ref-time_43-0)
-[2045: The Year Man Becomes Immortal](http://www.time.com/time/magazine/article/0,9171,2048299,00.html), By Lev Grossman Thursday, Feb. 10, 2011 time.com.
-1. 
-[^](#cite_ref-david_chalmers_singularity_lecture_resources_available_44-0)
-[[2]](http://www.fhi.ox.ac.uk/news/2010/david_chalmers_singularity_lecture_resources_available) David Chalmers John Locke Lecture, 10 May, Exam Schools, Oxford, presenting a philosophical analysis of the possibility of a technological singularity or "intelligence explosion" resulting from recursively self-improving AI.
-1. 
-[^](#cite_ref-consc.net_45-0)
-[The Singularity: A Philosophical Analysis, David J. Chalmers](http://consc.net/papers/singularity.pdf)
-1. 
-[^](#cite_ref-itrs_46-0)
-["ITRS"](http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf) (PDF). [http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf](http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-arstechnica_47-0)
-Siracusa, John (2009-08-31). ["Mac OS X 10.6 Snow Leopard: the Ars Technica review"](http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8). Arstechnica.com. [http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8](http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-singularity6_48-0)
-Eliezer Yudkowsky, 1996 "Staring at the Singularity
-1. 
-[^](#cite_ref-yudkowsky_49-0)
-Eliezer S. Yudkowsky. ["Power of Intelligence"](http://yudkowsky.net/singularity/power). Yudkowsky. [http://yudkowsky.net/singularity/power](http://yudkowsky.net/singularity/power). Retrieved 2011-09-09. 
-1. 
-[^](#cite_ref-selfawaresystems_50-0)
-[Omohundro, Stephen M., "The Basic AI Drives." Artificial General Intelligence, 2008 proceedings of the First AGI Conference, eds. Pei Wang, Ben Goertzel, and Stan Franklin. Vol. 171. Amsterdam: IOS, 2008](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)
-1. 
-[^](#cite_ref-kurzweilai_51-0)
-["Artificial General Intelligence: Now Is the Time"](http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time). KurzweilAI. [http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time](http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time). Retrieved 2011-09-09. 
-1. 
-^ [a](#cite_ref-selfawaresystems.com_52-0)[b](#cite_ref-selfawaresystems.com_52-1)
-[Omohundro, Stephen M., "The Nature of Self-Improving Artificial Intelligence." Self-Aware Systems. 21 Jan. 2008. Web. 07 Jan. 2010.](http://selfawaresystems.com/2007/10/05/paper-on-the-nature-of-self-improving-artificial-intelligence/)
-1. 
-^ [a](#cite_ref-ReferenceB_53-0)[b](#cite_ref-ReferenceB_53-1)
-["Concise Summary | Singularity Institute for Artificial Intelligence"](http://singinst.org/riskintro/index.html). Singinst.org. [http://singinst.org/riskintro/index.html](http://singinst.org/riskintro/index.html). Retrieved 2011-09-09. 
-1. 
-^ [a](#cite_ref-nickbostrom7_54-0)[b](#cite_ref-nickbostrom7_54-1)
-[Bostrom, Nick, The Future of Human Evolution, Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing, ed. Charles Tandy, p. 339–371, 2004, Ria University Press.](http://www.nickbostrom.com/fut/evolution.html)
-1. 
-[^](#cite_ref-nickbostrom8_55-0)
-[Ethical Issues in Advanced Artificial Intelligence, Nick Bostrom, in Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence, Vol. 2, ed. I. Smit et al., Int. Institute of Advanced Studies in Systems Research and Cybernetics, 2003, pp. 12-17](http://www.nickbostrom.com/ethics/ai.html)
-1. 
-[^](#cite_ref-singinst_56-0)
-[Eliezer Yudkowsky](http://en.wikipedia.org/wiki/Eliezer_Yudkowsky "Eliezer Yudkowsky"): [Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://singinst.org/upload/artificial-intelligence-risk.pdf). Draft for a publication in  from August 31, 2006, retrieved July 18, 2011 (PDF file)
-1. 
-[^](#cite_ref-singinst9_57-0)
-[The Stamp Collecting Device, Nick Hay](http://www.singinst.org/blog/2007/06/11/the-stamp-collecting-device/)
-1. 
-[^](#cite_ref-aleph_58-0)
-['Why we should fear the Paperclipper'](http://www.aleph.se/andart/archives/2011/02/why_we_should_fear_the_paperclipper.html), 2011-02-14 entry of Sandberg's blog 'Andart'
-1. 
-[^](#cite_ref-selfawaresystems10_59-0)
-[Omohundro, Stephen M., "The Basic AI Drives." Artificial General Intelligence, 2008 proceedings of the First AGI Conference, eds. Pei Wang, Ben Goertzel, and Stan Franklin. Vol. 171. Amsterdam: IOS, 2008.](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)
-1. 
-[^](#cite_ref-forbes_60-0)
-de Garis, Hugo. ["The Coming Artilect War"](http://www.forbes.com/2009/06/18/cosmist-terran-cyborgist-opinions-contributors-artificial-intelligence-09-hugo-de-garis.html), Forbes.com, 22 June 2009.
-1. 
-[^](#cite_ref-singinst12_61-0)
-[Coherent Extrapolated Volition, Eliezer S. Yudkowsky, May 2004](http://singinst.org/upload/CEV.html)
-1. 
-[^](#cite_ref-berglas_62-0)
-[Artificial Intelligence Will Kill Our Grandchildren (Singularity), Dr Anthony Berglas](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html#mozTocId817119)
-1. 
-[^](#cite_ref-philosophical_63-0)
-The Singularity: A Philosophical Analysis David J. Chalmers
-1. 
-[^](#cite_ref-nytimes_july09_64-0)
-[Scientists Worry Machines May Outsmart Man](http://www.nytimes.com/2009/07/26/science/26robot.html?_r=1&ref=todayspaper) By JOHN MARKOFF, NY Times, July 26, 2009.
-1. 
-[^](#cite_ref-palmer_65-0)
-[Call for debate on killer robots](http://news.bbc.co.uk/2/hi/technology/8182003.stm), By Jason Palmer, Science and technology reporter, BBC News, 8/3/09.
-1. 
-[^](#cite_ref-dailytech_66-0)
-Mick, Jason. [New Navy-funded Report Warns of War Robots Going "Terminator"](http://www.dailytech.com/New%20Navyfunded%20Report%20Warns%20of%20War%20Robots%20Going%20Terminator/article14298.htm), Blog, dailytech.com, February 17, 2009.
-1. 
-[^](#cite_ref-engadget_67-0)
-Flatley, Joseph L. [Navy report warns of robot uprising, suggests a strong moral compass](http://www.engadget.com/2009/02/18/navy-report-warns-of-robot-uprising-suggests-a-strong-moral-com/), engadget.com, 18 February 2009.
-1. 
-[^](#cite_ref-microsoft_68-0)
-[AAAI Presidential Panel on Long-Term AI Futures 2008-2009 Study](http://research.microsoft.com/en-us/um/people/horvitz/AAAI_Presidential_Panel_2008-2009.htm), Association for the Advancement of Artificial Intelligence, Accessed 7/26/09.
-1. 
-[^](#cite_ref-asimovlaws_69-0)
-[Article at Asimovlaws.com](http://www.asimovlaws.com/articles/archives/2004/07/why_we_need_fri_1.html), July 2004, accessed 7/27/2009.
-1. 
-[^](#cite_ref-70)
-([Singularity Institute for Artificial Intelligence 2004](#CITEREFSingularity_Institute_for_Artificial_Intelligence2004))
-1. 
-[^](#cite_ref-71)
-([Kurzweil 2001](#CITEREFKurzweil2001))
-1. 
-[^](#cite_ref-72)
-([Kurzweil 2005](#CITEREFKurzweil2005))
-1. 
-[^](#cite_ref-civilization_73-0)
-Zubrin, Robert. 1999, 
-1. 
-[^](#cite_ref-74)
-([Joy 2000](#CITEREFJoy2000))
-1. 
-[^](#cite_ref-75)
-([Acceleration Studies Foundation 2007](#CITEREFAcceleration_Studies_Foundation2007))
-1. 
-[^](#cite_ref-dreyfus_76-0)
-[Dreyfus & Dreyfus 2000](#CITEREFDreyfusDreyfus2000), p. xiv:
-> "(...) The truth is that human intelligence can never be replaced with machine intelligence simply because we are not ourselves "thinking machines" in the sense in which that term is commonly understood.[Hawking (1998](#CITEREFHawking1998)) (...)"
+
+1. [^](#cite_ref-0)Superintelligence. Answer to the 2009 EDGE QUESTION: "WHAT WILL CHANGE EVERYTHING?": [http://www.nickbostrom.com/views/superintelligence.pdf](http://www.nickbostrom.com/views/superintelligence.pdf)
+1. [^](#cite_ref-Singularity.2C_Intelligence_Explosion_2010_1-0)David Chalmers on Singularity, Intelligence Explosion. April 8th, 2010. Singularity Institute for Artificial Intelligence: [http://singinst.org/blog/2010/04/08/david-chalmers-on-singularity-intelligence-explosion/](http://singinst.org/blog/2010/04/08/david-chalmers-on-singularity-intelligence-explosion/)
+1. [^](#cite_ref-2)Editor's Blog Why an Intelligence Explosion is Probable By: Richard Loosemore and Ben Goertzel. March 7, 2011; hplusmagazine: [http://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/](http://hplusmagazine.com/2011/03/07/why-an-intelligence-explosion-is-probable/)
+1. ^ [a](#cite_ref-vinge1993_3-0)[b](#cite_ref-vinge1993_3-1)[c](#cite_ref-vinge1993_3-2)Vinge, Vernor. ["The Coming Technological Singularity: How to Survive in the Post-Human Era"](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), originally in , G. A. Landis, ed., NASA Publication CP-10129, pp. 115-126, 1993
+1. [^](#cite_ref-singularity_4-0)Ray Kurzweil, The Singularity is Near, pp. 135-136. Penguin Group, 2005.
+1. ^ [a](#cite_ref-singinst.org_5-0)[b](#cite_ref-singinst.org_5-1)[c](#cite_ref-singinst.org_5-2)[d](#cite_ref-singinst.org_5-3)["What is the Singularity? | Singularity Institute for Artificial Intelligence"](http://singinst.org/overview/whatisthesingularity). Singinst.org. [http://singinst.org/overview/whatisthesingularity](http://singinst.org/overview/whatisthesingularity). Retrieved 2011-09-09. 
+1. [^](#cite_ref-hplusmagazine_6-0)["h+ Magazine | Covering technological, scientific, and cultural trends that are changing human beings in fundamental ways"](http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai). Hplusmagazine.com. [http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai](http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai). Retrieved 2011-09-09. 
+1. ^ [a](#cite_ref-yudkowsky.net_7-0)[b](#cite_ref-yudkowsky.net_7-1)[c](#cite_ref-yudkowsky.net_7-2)[Yudkowsky, Eliezer](http://en.wikipedia.org/wiki/Eliezer_Yudkowsky "Eliezer Yudkowsky"). [The Singularity: Three Major Schools](http://yudkowsky.net/singularity/schools)
+1. [^](#cite_ref-agi-conf_8-0)[Sandberg, Anders](http://en.wikipedia.org/wiki/Anders_Sandberg "Anders Sandberg"). [An overview of models of technological singularity](http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf)
+1. ^ [a](#cite_ref-kurzweilai.net_9-0)[b](#cite_ref-kurzweilai.net_9-1)["Max More and Ray Kurzweil on the Singularity"](http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2). KurzweilAI. [http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2](http://www.kurzweilai.net/max-more-and-ray-kurzweil-on-the-singularity-2). Retrieved 2011-09-09. 
+1. [^](#cite_ref-stat_10-0)Good, I. J. ["Speculations Concerning the First Ultraintelligent Machine"](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf), , vol. 6, 1965.
+1. [^](#cite_ref-Paul_Ehrlich_June_2008_11-0)Ehrlich, Paul. [The Dominant Animal: Human Evolution and the Environment](http://www.longnow.org/seminars/02008/jun/27/dominant-animal-human-evolution-and-environment/)
+1. [^](#cite_ref-businessweek_12-0)[Superbrains born of silicon will change everything.](http://www.businessweek.com/1999/99_35/b3644021.htm)
+1. [^](#cite_ref-ultraintelligent_13-0)Good, I. J., "Speculations Concerning the First Ultraintelligent Machine", Franz L. Alt and Morris Rubinoff, ed., Advances in Computers (Academic Press) 6: 31–88, 1965.
+1. [^](#cite_ref-acceleratingfuture_14-0)[The Human Importance of the Intelligence Explosion](http://www.acceleratingfuture.com/people-blog/2007/the-human-importance-of-the-intelligence-explosion/)
+1. [^](#cite_ref-ultraintelligent1_15-0)Good, I. J. 1965 Speculations Concerning the First Ultraintelligent Machine. Pp 31-88 in Advances in Computers, 6, F. L. Alt and M Rubinoff, eds. New York: Academic Press.
+1. [^](#cite_ref-google_16-0)Ray Kurzweil, , Viking, 1999, [p. 30](http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA630#v=onepage&q&f=false) and [p. 32](http://books.google.com/books?id=ldAGcyh0bkUC&lpg=PP1&pg=PA632#v=onepage&q&f=false)
+1. [^](#cite_ref-singularity2_17-0)Ray Kurzweil, , Penguin Group, 2005
+1. [^](#cite_ref-singularity3_18-0)Ray Kurzweil, The Singularity is Near, p. 9. Penguin Group, 2005
+1. [^](#cite_ref-transformation_19-0)Ray Kurzweil, , pp. 135-136. Penguin Group, 2005. The context for this statement is as follows: "we will be producing about 1026 to 1029 cps of nonbiological computation per year in the early 2030s. This is roughly equal to our estimate for the capacity of all living biological human intelligence ... This state of computation in the early 2030s will not represent the Singularity, however, because it does not yet correspond to a profound expansion of our intelligence. By the mid-2040s, however, that one thousand dollars' worth of computation will be equal to 1026 cps, so the intelligence created per year (at a total cost of about $1012) will be about one billion times more powerful than all human intelligence today. That  indeed represent a profound change, and it is for that reason that I set the date for the Singularity—representing a profound and disruptive transformation in human capability—as 2045."
+1. ^ [a](#cite_ref-positive-and-negative_20-0)[b](#cite_ref-positive-and-negative_20-1)[c](#cite_ref-positive-and-negative_20-2)Yudkowsky, Eliezer (2008), Bostrom, Nick; Cirkovic, Milan, eds., ["Artificial Intelligence as a Positive and Negative Factor in Global Risk"](http://singinst.org/AIRisk.pdf),  (Oxford University Press): 303, [Bibcode](http://en.wikipedia.org/wiki/Bibcode "Bibcode")[2008gcr..book..303Y](http://adsabs.harvard.edu/abs/2008gcr..book..303Y), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-19-857050-9](http://en.wikipedia.org/wiki/Special:BookSources/978-0-19-857050-9 "Special:BookSources/978-0-19-857050-9"), [http://singinst.org/AIRisk.pdf](http://singinst.org/AIRisk.pdf) 
+1. [^](#cite_ref-theuncertainfuture_21-0)[The Uncertain Future; a future technology and world-modeling project](http://www.theuncertainfuture.com/)
+1. [^](#cite_ref-catastrophic_22-0)[GLOBAL CATASTROPHIC RISKS SURVEY (2008) Technical Report 2008/1 Published by Future of Humanity Institute, Oxford University. Anders Sandberg and Nick Bostrom](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0020/3854/global-catastrophic-risks-report.pdf)
+1. [^](#cite_ref-nickbostrom_23-0)[Existential Risks; Analyzing Human Extinction Scenarios and Related Hazards, Nick Bostrom](http://www.nickbostrom.com/existential/risks.html)
+1. ^ [a](#cite_ref-spectrum.ieee.org_24-0)[b](#cite_ref-spectrum.ieee.org_24-1)["Tech Luminaries Address Singularity - IEEE Spectrum"](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity). Spectrum.ieee.org. [http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity). Retrieved 2011-09-09. 
+1. [^](#cite_ref-ieee_25-0)["Who's Who In The Singularity - IEEE Spectrum"](http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity). Spectrum.ieee.org. [http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity](http://spectrum.ieee.org/computing/hardware/whos-who-in-the-singularity). Retrieved 2011-09-09. 
+1. [^](#cite_ref-The_Expounder_of_Primitive_Christianity_26-0)Thornton, Richard (1847), [The Expounder of Primitive Christianity](http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false), 4, Ann Arbor, Michigan, p. 281, [http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false](http://books.google.com/?id=ZM_hAAAAMAAJ&dq=%22Primitive%20Expounder%22%20thornton%201847&pg=PA281#v=onepage&q=thinking%20machine&f=false) 
+1. [^](#cite_ref-oxfordjournals_27-0)A M Turing, , 1951, reprinted  (1996) 4(3): 256-260 [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier"):[10.1093/philmat/4.3.256](http://dx.doi.org/10.1093%2Fphilmat%2F4.3.256)[[1]](http://philmat.oxfordjournals.org/content/4/3/256.full.pdf)
+1. [^](#cite_ref-mathematical_28-0)Ulam, S., Tribute to John von Neumann, Bulletin of the American Mathematical Society, vol 64, nr 3, part 2, May, 1958, p1-49.
+1. [^](#cite_ref-google4_29-0)Dooling, Richard.  (2008), [p. 88](http://books.google.com/books?id=VbBRsv1lxsUC&lpg=PP1&pg=PA88#v=onepage&q&f=false)
+1. [^](#cite_ref-technological_30-0)Vinge did not actually use the phrase "technological singularity" in the Omni op-ed, but he did use this phrase in the short story collection  from 1988, writing in the introduction to his story "The Whirligig of Time" (p. 72):  soon. 
+1. [^](#cite_ref-std_31-0)Solomonoff, R.J. "The Time Scale of Artificial Intelligence: Reflections on Social Effects," Human Systems Management, Vol 5, pp. 149-153, 1985, [http://world.std.com/~rjs/timesc.pdf](http://world.std.com/~rjs/timesc.pdf).
+1. [^](#cite_ref-When_will_computer_hardware_match_the_human_brain.3F_32-0)Moravec, Hans (1998), ["When will computer hardware match the human brain?"](http://www.transhumanist.com/volume1/moravec.htm), 1, [http://www.transhumanist.com/volume1/moravec.htm](http://www.transhumanist.com/volume1/moravec.htm), retrieved 2006-06-23. 
+1. [^](#cite_ref-The_Age_of_Robots_33-0)Moravec, Hans (June 1993). ["The Age of Robots"](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html). [http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html). Retrieved 2006-06-23. 
+1. [^](#cite_ref-Robot_Predictions_Evolution_34-0)Moravec, Hans (April 2004). ["Robot Predictions Evolution"](http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html). [http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html). Retrieved 2006-06-23. 
+1. [^](#cite_ref-google5_35-0)Dooling, Richard.  (2008), [p. 89](http://books.google.com/books?id=VbBRsv1lxsUC&lpg=PP1&pg=PA89#v=onepage&q&f=false)
+1. [^](#cite_ref-36)[The Coming Technological Singularity: How to Survive in the Post-Human Era](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), by Vernor Vinge, Department of Mathematical Sciences, San Diego State University, (c) 1993 by Vernor Vinge.
+1. [^](#cite_ref-JoyFuture_37-0)[Joy, Bill](http://en.wikipedia.org/wiki/Bill_Joy "Bill Joy") (April 2000), ["Why the future doesn’t need us"](http://www.wired.com/wired/archive/8.04/joy.html),  (Viking Adult) (8.04), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03249-2](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03249-2 "Special:BookSources/0-670-03249-2"), [http://www.wired.com/wired/archive/8.04/joy.html](http://www.wired.com/wired/archive/8.04/joy.html), retrieved 2007-08-07 
+1. [^](#cite_ref-episode_38-0)[Episode dated 23 August 2006](http://www.imdb.com/title/tt847969/) at the [Internet Movie Database](http://en.wikipedia.org/wiki/Internet_Movie_Database "Internet Movie Database")
+1. ^ [a](#cite_ref-Hanson_39-0)[b](#cite_ref-Hanson_39-1)Robin Hanson, ["Economics Of The Singularity"](http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity), , [http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity](http://www.spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity), retrieved 2008-09-11  & [Long-Term Growth As A Sequence of Exponential Modes](http://hanson.gmu.edu/longgrow.pdf)
+1. [^](#cite_ref-singularityu_40-0)[About Singularity University](http://singularityu.org/about/) at its official website
+1. [^](#cite_ref-sens_41-0)[de Grey, Aubrey](http://en.wikipedia.org/wiki/Aubrey_de_Grey "Aubrey de Grey"). [The singularity and the Methuselarity: similarities and differences](http://www.sens.org/files/sens/FHTI07-deGrey.pdf)[]
+1. [^](#cite_ref-Apocalyptic_AI_-_Visions_of_Heaven_in_Robotics.2C_Artificial_Intelligence.2C_and_Virtual_Reality_42-0)Geraci, Robert M., , [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-19-539302-6](http://en.wikipedia.org/wiki/Special:BookSources/978-0-19-539302-6 "Special:BookSources/978-0-19-539302-6") 
+1. [^](#cite_ref-time_43-0)[2045: The Year Man Becomes Immortal](http://www.time.com/time/magazine/article/0,9171,2048299,00.html), By Lev Grossman Thursday, Feb. 10, 2011 time.com.
+1. [^](#cite_ref-david_chalmers_singularity_lecture_resources_available_44-0)[[2]](http://www.fhi.ox.ac.uk/news/2010/david_chalmers_singularity_lecture_resources_available) David Chalmers John Locke Lecture, 10 May, Exam Schools, Oxford, presenting a philosophical analysis of the possibility of a technological singularity or "intelligence explosion" resulting from recursively self-improving AI.
+1. [^](#cite_ref-consc.net_45-0)[The Singularity: A Philosophical Analysis, David J. Chalmers](http://consc.net/papers/singularity.pdf)
+1. [^](#cite_ref-itrs_46-0)["ITRS"](http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf) (PDF). [http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf](http://www.itrs.net/Links/2007ITRS/ExecSum2007.pdf). Retrieved 2011-09-09. 
+1. [^](#cite_ref-arstechnica_47-0)Siracusa, John (2009-08-31). ["Mac OS X 10.6 Snow Leopard: the Ars Technica review"](http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8). Arstechnica.com. [http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8](http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/8). Retrieved 2011-09-09. 
+1. [^](#cite_ref-singularity6_48-0)Eliezer Yudkowsky, 1996 "Staring at the Singularity
+1. [^](#cite_ref-yudkowsky_49-0)Eliezer S. Yudkowsky. ["Power of Intelligence"](http://yudkowsky.net/singularity/power). Yudkowsky. [http://yudkowsky.net/singularity/power](http://yudkowsky.net/singularity/power). Retrieved 2011-09-09. 
+1. [^](#cite_ref-selfawaresystems_50-0)[Omohundro, Stephen M., "The Basic AI Drives." Artificial General Intelligence, 2008 proceedings of the First AGI Conference, eds. Pei Wang, Ben Goertzel, and Stan Franklin. Vol. 171. Amsterdam: IOS, 2008](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)
+1. [^](#cite_ref-kurzweilai_51-0)["Artificial General Intelligence: Now Is the Time"](http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time). KurzweilAI. [http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time](http://www.kurzweilai.net/artificial-general-intelligence-now-is-the-time). Retrieved 2011-09-09. 
+1. ^ [a](#cite_ref-selfawaresystems.com_52-0)[b](#cite_ref-selfawaresystems.com_52-1)[Omohundro, Stephen M., "The Nature of Self-Improving Artificial Intelligence." Self-Aware Systems. 21 Jan. 2008. Web. 07 Jan. 2010.](http://selfawaresystems.com/2007/10/05/paper-on-the-nature-of-self-improving-artificial-intelligence/)
+1. ^ [a](#cite_ref-ReferenceB_53-0)[b](#cite_ref-ReferenceB_53-1)["Concise Summary | Singularity Institute for Artificial Intelligence"](http://singinst.org/riskintro/index.html). Singinst.org. [http://singinst.org/riskintro/index.html](http://singinst.org/riskintro/index.html). Retrieved 2011-09-09. 
+1. ^ [a](#cite_ref-nickbostrom7_54-0)[b](#cite_ref-nickbostrom7_54-1)[Bostrom, Nick, The Future of Human Evolution, Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing, ed. Charles Tandy, p. 339–371, 2004, Ria University Press.](http://www.nickbostrom.com/fut/evolution.html)
+1. [^](#cite_ref-nickbostrom8_55-0)[Ethical Issues in Advanced Artificial Intelligence, Nick Bostrom, in Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence, Vol. 2, ed. I. Smit et al., Int. Institute of Advanced Studies in Systems Research and Cybernetics, 2003, pp. 12-17](http://www.nickbostrom.com/ethics/ai.html)
+1. [^](#cite_ref-singinst_56-0)[Eliezer Yudkowsky](http://en.wikipedia.org/wiki/Eliezer_Yudkowsky "Eliezer Yudkowsky"): [Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://singinst.org/upload/artificial-intelligence-risk.pdf). Draft for a publication in  from August 31, 2006, retrieved July 18, 2011 (PDF file)
+1. [^](#cite_ref-singinst9_57-0)[The Stamp Collecting Device, Nick Hay](http://www.singinst.org/blog/2007/06/11/the-stamp-collecting-device/)
+1. [^](#cite_ref-aleph_58-0)['Why we should fear the Paperclipper'](http://www.aleph.se/andart/archives/2011/02/why_we_should_fear_the_paperclipper.html), 2011-02-14 entry of Sandberg's blog 'Andart'
+1. [^](#cite_ref-selfawaresystems10_59-0)[Omohundro, Stephen M., "The Basic AI Drives." Artificial General Intelligence, 2008 proceedings of the First AGI Conference, eds. Pei Wang, Ben Goertzel, and Stan Franklin. Vol. 171. Amsterdam: IOS, 2008.](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)
+1. [^](#cite_ref-forbes_60-0)de Garis, Hugo. ["The Coming Artilect War"](http://www.forbes.com/2009/06/18/cosmist-terran-cyborgist-opinions-contributors-artificial-intelligence-09-hugo-de-garis.html), Forbes.com, 22 June 2009.
+1. [^](#cite_ref-singinst12_61-0)[Coherent Extrapolated Volition, Eliezer S. Yudkowsky, May 2004](http://singinst.org/upload/CEV.html)
+1. [^](#cite_ref-berglas_62-0)[Artificial Intelligence Will Kill Our Grandchildren (Singularity), Dr Anthony Berglas](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html#mozTocId817119)
+1. [^](#cite_ref-philosophical_63-0)The Singularity: A Philosophical Analysis David J. Chalmers
+1. [^](#cite_ref-nytimes_july09_64-0)[Scientists Worry Machines May Outsmart Man](http://www.nytimes.com/2009/07/26/science/26robot.html?_r=1&ref=todayspaper) By JOHN MARKOFF, NY Times, July 26, 2009.
+1. [^](#cite_ref-palmer_65-0)[Call for debate on killer robots](http://news.bbc.co.uk/2/hi/technology/8182003.stm), By Jason Palmer, Science and technology reporter, BBC News, 8/3/09.
+1. [^](#cite_ref-dailytech_66-0)Mick, Jason. [New Navy-funded Report Warns of War Robots Going "Terminator"](http://www.dailytech.com/New%20Navyfunded%20Report%20Warns%20of%20War%20Robots%20Going%20Terminator/article14298.htm), Blog, dailytech.com, February 17, 2009.
+1. [^](#cite_ref-engadget_67-0)Flatley, Joseph L. [Navy report warns of robot uprising, suggests a strong moral compass](http://www.engadget.com/2009/02/18/navy-report-warns-of-robot-uprising-suggests-a-strong-moral-com/), engadget.com, 18 February 2009.
+1. [^](#cite_ref-microsoft_68-0)[AAAI Presidential Panel on Long-Term AI Futures 2008-2009 Study](http://research.microsoft.com/en-us/um/people/horvitz/AAAI_Presidential_Panel_2008-2009.htm), Association for the Advancement of Artificial Intelligence, Accessed 7/26/09.
+1. [^](#cite_ref-asimovlaws_69-0)[Article at Asimovlaws.com](http://www.asimovlaws.com/articles/archives/2004/07/why_we_need_fri_1.html), July 2004, accessed 7/27/2009.
+1. [^](#cite_ref-70)([Singularity Institute for Artificial Intelligence 2004](#CITEREFSingularity_Institute_for_Artificial_Intelligence2004))
+1. [^](#cite_ref-71)([Kurzweil 2001](#CITEREFKurzweil2001))
+1. [^](#cite_ref-72)([Kurzweil 2005](#CITEREFKurzweil2005))
+1. [^](#cite_ref-civilization_73-0)Zubrin, Robert. 1999, 
+1. [^](#cite_ref-74)([Joy 2000](#CITEREFJoy2000))
+1. [^](#cite_ref-75)([Acceleration Studies Foundation 2007](#CITEREFAcceleration_Studies_Foundation2007))
+1. [^](#cite_ref-dreyfus_76-0)[Dreyfus & Dreyfus 2000](#CITEREFDreyfusDreyfus2000), p. xiv:> "(...) The truth is that human intelligence can never be replaced with machine intelligence simply because we are not ourselves "thinking machines" in the sense in which that term is commonly understood.[Hawking (1998](#CITEREFHawking1998)) (...)"
 > 
 
- :
-> Some people say that computers can never show true intelligence whatever that may be. But it seems to me that if very complicated chemical molecules can operate in humans to make them intelligent then equally complicated electronic circuits can also make computers act in an intelligent way. And if they are intelligent they can presumably design computers that have even greater complexity and intelligence.
+ :> Some people say that computers can never show true intelligence whatever that may be. But it seems to me that if very complicated chemical molecules can operate in humans to make them intelligent then equally complicated electronic circuits can also make computers act in an intelligent way. And if they are intelligent they can presumably design computers that have even greater complexity and intelligence.
 > 
 
-1. 
-[^](#cite_ref-thelightsinthetunnel_77-0)
-Ford, Martin, , Acculant Publishing, 2009, [ISBN 978-1-4486-5981-4](http://en.wikipedia.org/wiki/Special:BookSources/9781448659814)
-1. 
-[^](#cite_ref-nytimes_78-0)
-Markoff, John (2011-03-04). ["Armies of Expensive Lawyers, Replaced by Cheaper Software"](http://www.nytimes.com/2011/03/05/science/05legal.html). . [http://www.nytimes.com/2011/03/05/science/05legal.html](http://www.nytimes.com/2011/03/05/science/05legal.html). 
-1. 
-[^](#cite_ref-google13_79-0)
-Theodore Modis, [Forecasting the Growth of Complexity and Change](http://www.google.com/search?q=cache:5qYje63ynXwJ:ourworld.compuserve.com/homepages/tmodis/TedWEB.htm+http://ourworld.compuserve.com/homepages/tmodis/TedWEB.htm&cd=1&hl=en&ct=clnk&gl=us), , 69, No 4, 2002
-1. 
-^ [a](#cite_ref-Singularity_Myth_80-0)[b](#cite_ref-Singularity_Myth_80-1)
-[Modis, Theodore. The Singularity Myth](http://www.growth-dynamics.com/articles/Kurzweil.htm)
-1. 
-^ [a](#cite_ref-technological14_81-0)[b](#cite_ref-technological14_81-1)
-Huebner, Jonathan (2005) A Possible Declining Trend for Worldwide Innovation, , October 2005, pp. 980-6
-1. 
-[^](#cite_ref-accelerating_82-0)
-Smart, John (September 2005), On Huebner Innovation, Acceleration Studies Foundation, [http://accelerating.org/articles/huebnerinnovation.html](http://accelerating.org/articles/huebnerinnovation.html), retrieved on 2007-08-07
-1. 
-[^](#cite_ref-cnet_83-0)
-Krazit, Tom. [Intel pledges 80 cores in five years](http://news.cnet.com/2100-1006_3-6119618.html), , 26 September 2006.
-1. 
-[^](#cite_ref-cliodynamics_84-0)
-See, e.g., Korotayev A., Malkov A., Khaltourina D. [Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth](http://cliodynamics.ru/index.php?option=com_content&task=view&id=124&Itemid=70). Moscow: URSS Publishers, 2006; Korotayev A. V. [A Compact Macromodel of World System Evolution // Journal of World-Systems Research 11/1 (2005): 79–93.](http://jwsr.ucr.edu/archive/vol11/number1/pdf/jwsr-v11n1-korotayev.pdf)
-1. 
-[^](#cite_ref-85)
-For a detailed mathematical analysis of this issue see [A Compact Mathematical Model of the World System Economic and Demographic Growth, 1 CE - 1973 CE](http://arxiv.org/abs/1206.0496).
-1. 
-[^](#cite_ref-interstellar_86-0)
-Interstellar Travel: The Wait Calculation and the Incentive Trap of Progress, JBIS Vol 59, N.7 July 2006
-1. 
-[^](#cite_ref-university_87-0)
-Tainter, Joseph (1988) "The Collapse of Complex Societies" (Cambridge University Press)
-1. 
-[^](#cite_ref-PZMyers_88-0)
-Myers, PZ, [Singularly Silly Singularity](http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php), [http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php](http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php), retrieved 2009-04-13 
-1. 
-[^](#cite_ref-moreblades_89-0)
-Anonymous (18 March 2006), ["More blades good"](http://www.economist.com/science/displaystory.cfm?story_id=5624861),  (London) 378 (8469): 85, [http://www.economist.com/science/displaystory.cfm?story_id=5624861](http://www.economist.com/science/displaystory.cfm?story_id=5624861) 
-1. 
-[^](#cite_ref-plugandpray-film_90-0)
-[Plug & Pray](http://www.plugandpray-film.de/en/) Documentary film (2010) about the promise, problems and ethics of artificial intelligence and robotics
-1. 
-[^](#cite_ref-cnet15_91-0)
-[Robo-scientist makes gene discovery-on its own | Crave - CNET](http://news.cnet.com/robo-scientist-makes-gene-discovery-on-its-own/?tag=newsLatestHeadlinesArea.0)
-1. 
-[^](#cite_ref-wired_92-0)
-Keim, Brandon (2009-04-02). ["Computer Program Self-Discovers Laws of Physics"](http://www.wired.com/wiredscience/2009/04/newtonai/). . [http://www.wired.com/wiredscience/2009/04/newtonai/](http://www.wired.com/wiredscience/2009/04/newtonai/). 
-1. 
-[^](#cite_ref-cornell_93-0)
-[Cornell Chronicle: Computer derives natural laws](http://www.news.cornell.edu/stories/April09/NaturalLaws.ws.html)
-1. 
-[^](#cite_ref-IEET_interview_94-0)
-Michael Anissimov. ["Interview with Dr. Steel"](http://ieet.org/index.php/IEET/more/2572/). Institute for Ethics and Emerging Technologies. [http://ieet.org/index.php/IEET/more/2572/](http://ieet.org/index.php/IEET/more/2572/). Retrieved 2009-08-29. 
-1. 
-[^](#cite_ref-Paranoia_magazine_95-0)
-Dr. Steel (Spring 2005). ["Multi-Media Symbiosis and the Evolution of Electronic Life"](http://www.paranoiamagazine.com/backissues.html). Paranoia: The Conspiracy Reader, Issue 38 (back issue). [http://www.paranoiamagazine.com/backissues.html](http://www.paranoiamagazine.com/backissues.html). Retrieved 2010-04-16. 
-1. 
-[^](#cite_ref-Paranoia_magazine_clipping_96-0)
-Dr. Steel (Spring 2005). ["Multi-Media Symbiosis and the Evolution of Electronic Life"](http://worlddominationtoys.com/drsteel/clippings_paranoia.html).  (clipping from Paranoia: The Conspiracy Reader). [http://worlddominationtoys.com/drsteel/clippings_paranoia.html](http://worlddominationtoys.com/drsteel/clippings_paranoia.html). Retrieved 2010-04-16. 
+1. [^](#cite_ref-thelightsinthetunnel_77-0)Ford, Martin, , Acculant Publishing, 2009, [ISBN 978-1-4486-5981-4](http://en.wikipedia.org/wiki/Special:BookSources/9781448659814)
+1. [^](#cite_ref-nytimes_78-0)Markoff, John (2011-03-04). ["Armies of Expensive Lawyers, Replaced by Cheaper Software"](http://www.nytimes.com/2011/03/05/science/05legal.html). . [http://www.nytimes.com/2011/03/05/science/05legal.html](http://www.nytimes.com/2011/03/05/science/05legal.html). 
+1. [^](#cite_ref-google13_79-0)Theodore Modis, [Forecasting the Growth of Complexity and Change](http://www.google.com/search?q=cache:5qYje63ynXwJ:ourworld.compuserve.com/homepages/tmodis/TedWEB.htm+http://ourworld.compuserve.com/homepages/tmodis/TedWEB.htm&cd=1&hl=en&ct=clnk&gl=us), , 69, No 4, 2002
+1. ^ [a](#cite_ref-Singularity_Myth_80-0)[b](#cite_ref-Singularity_Myth_80-1)[Modis, Theodore. The Singularity Myth](http://www.growth-dynamics.com/articles/Kurzweil.htm)
+1. ^ [a](#cite_ref-technological14_81-0)[b](#cite_ref-technological14_81-1)Huebner, Jonathan (2005) A Possible Declining Trend for Worldwide Innovation, , October 2005, pp. 980-6
+1. [^](#cite_ref-accelerating_82-0)Smart, John (September 2005), On Huebner Innovation, Acceleration Studies Foundation, [http://accelerating.org/articles/huebnerinnovation.html](http://accelerating.org/articles/huebnerinnovation.html), retrieved on 2007-08-07
+1. [^](#cite_ref-cnet_83-0)Krazit, Tom. [Intel pledges 80 cores in five years](http://news.cnet.com/2100-1006_3-6119618.html), , 26 September 2006.
+1. [^](#cite_ref-cliodynamics_84-0)See, e.g., Korotayev A., Malkov A., Khaltourina D. [Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth](http://cliodynamics.ru/index.php?option=com_content&task=view&id=124&Itemid=70). Moscow: URSS Publishers, 2006; Korotayev A. V. [A Compact Macromodel of World System Evolution // Journal of World-Systems Research 11/1 (2005): 79–93.](http://jwsr.ucr.edu/archive/vol11/number1/pdf/jwsr-v11n1-korotayev.pdf)
+1. [^](#cite_ref-85)For a detailed mathematical analysis of this issue see [A Compact Mathematical Model of the World System Economic and Demographic Growth, 1 CE - 1973 CE](http://arxiv.org/abs/1206.0496).
+1. [^](#cite_ref-interstellar_86-0)Interstellar Travel: The Wait Calculation and the Incentive Trap of Progress, JBIS Vol 59, N.7 July 2006
+1. [^](#cite_ref-university_87-0)Tainter, Joseph (1988) "The Collapse of Complex Societies" (Cambridge University Press)
+1. [^](#cite_ref-PZMyers_88-0)Myers, PZ, [Singularly Silly Singularity](http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php), [http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php](http://scienceblogs.com/pharyngula/2009/02/singularly_silly_singularity.php), retrieved 2009-04-13 
+1. [^](#cite_ref-moreblades_89-0)Anonymous (18 March 2006), ["More blades good"](http://www.economist.com/science/displaystory.cfm?story_id=5624861),  (London) 378 (8469): 85, [http://www.economist.com/science/displaystory.cfm?story_id=5624861](http://www.economist.com/science/displaystory.cfm?story_id=5624861) 
+1. [^](#cite_ref-plugandpray-film_90-0)[Plug & Pray](http://www.plugandpray-film.de/en/) Documentary film (2010) about the promise, problems and ethics of artificial intelligence and robotics
+1. [^](#cite_ref-cnet15_91-0)[Robo-scientist makes gene discovery-on its own | Crave - CNET](http://news.cnet.com/robo-scientist-makes-gene-discovery-on-its-own/?tag=newsLatestHeadlinesArea.0)
+1. [^](#cite_ref-wired_92-0)Keim, Brandon (2009-04-02). ["Computer Program Self-Discovers Laws of Physics"](http://www.wired.com/wiredscience/2009/04/newtonai/). . [http://www.wired.com/wiredscience/2009/04/newtonai/](http://www.wired.com/wiredscience/2009/04/newtonai/). 
+1. [^](#cite_ref-cornell_93-0)[Cornell Chronicle: Computer derives natural laws](http://www.news.cornell.edu/stories/April09/NaturalLaws.ws.html)
+1. [^](#cite_ref-IEET_interview_94-0)Michael Anissimov. ["Interview with Dr. Steel"](http://ieet.org/index.php/IEET/more/2572/). Institute for Ethics and Emerging Technologies. [http://ieet.org/index.php/IEET/more/2572/](http://ieet.org/index.php/IEET/more/2572/). Retrieved 2009-08-29. 
+1. [^](#cite_ref-Paranoia_magazine_95-0)Dr. Steel (Spring 2005). ["Multi-Media Symbiosis and the Evolution of Electronic Life"](http://www.paranoiamagazine.com/backissues.html). Paranoia: The Conspiracy Reader, Issue 38 (back issue). [http://www.paranoiamagazine.com/backissues.html](http://www.paranoiamagazine.com/backissues.html). Retrieved 2010-04-16. 
+1. [^](#cite_ref-Paranoia_magazine_clipping_96-0)Dr. Steel (Spring 2005). ["Multi-Media Symbiosis and the Evolution of Electronic Life"](http://worlddominationtoys.com/drsteel/clippings_paranoia.html).  (clipping from Paranoia: The Conspiracy Reader). [http://worlddominationtoys.com/drsteel/clippings_paranoia.html](http://worlddominationtoys.com/drsteel/clippings_paranoia.html). Retrieved 2010-04-16. 
 
 ## [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=14 "Edit section: References")]References
-* 
-Acceleration Studies Foundation (2007), [ASF: About the Foundation](http://www.accelerating.org/about.html), [http://www.accelerating.org/about.html](http://www.accelerating.org/about.html), retrieved 2007-11-13 
-* 
-Anonymous (18 March 2006), ["More blades good"](http://www.economist.com/science/displaystory.cfm?story_id=5624861),  (London) 378 (8469): 85, [http://www.economist.com/science/displaystory.cfm?story_id=5624861](http://www.economist.com/science/displaystory.cfm?story_id=5624861) 
-* 
-[Bell, James John](http://en.wikipedia.org/wiki/James_John_Bell "James John Bell") (2002), [Technotopia and the Death of Nature: Clones, Supercomputers, and Robots](http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/), Earth Island Journal (first published in the November/December 2001 issue of the ), [http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/](http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/), retrieved 2007-08-07 
-* 
-Bell, James John (1 May 2003), ["Exploring The "Singularity""](http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm),  ([World Future Society](http://en.wikipedia.org/wiki/World_Future_Society "World Future Society") (mindfully.org)), [http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm](http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm), retrieved 2007-08-07 
-* 
-Berglas, Anthony (2008), [Artificial Intelligence will Kill our Grandchildren](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html), [http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html), retrieved 2008-06-13 
-* 
-[Broderick, Damien](http://en.wikipedia.org/wiki/Damien_Broderick "Damien Broderick") (2001), , New York: Forge, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-312-87781-1](http://en.wikipedia.org/wiki/Special:BookSources/0-312-87781-1 "Special:BookSources/0-312-87781-1") 
-* 
-[Bostrom, Nick](http://en.wikipedia.org/wiki/Nick_Bostrom "Nick Bostrom") (2002), ["Existential Risks"](http://www.nickbostrom.com/existential/risks.html), 9, [http://www.nickbostrom.com/existential/risks.html](http://www.nickbostrom.com/existential/risks.html), retrieved 2007-08-07 
-* 
-Bostrom, Nick (2003), ["Ethical Issues in Advanced Artificial Intelligence"](http://www.nickbostrom.com/ethics/ai.html), 2: 12–17, [http://www.nickbostrom.com/ethics/ai.html](http://www.nickbostrom.com/ethics/ai.html), retrieved 2007-08-07 
-* 
-[Dreyfus, Hubert L.](http://en.wikipedia.org/wiki/Hubert_Dreyfus "Hubert Dreyfus"); [Dreyfus, Stuart E.](http://en.wikipedia.org/wiki/Stuart_Dreyfus "Stuart Dreyfus") (1 March 2000),  (1 ed.), New York: Free Press, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-7432-0551-0](http://en.wikipedia.org/wiki/Special:BookSources/0-7432-0551-0 "Special:BookSources/0-7432-0551-0") 
-* 
-Ford, Martin (2009), [The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future](http://www.thelightsinthetunnel.com), CreateSpace, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1-4486-5981-4](http://en.wikipedia.org/wiki/Special:BookSources/978-1-4486-5981-4 "Special:BookSources/978-1-4486-5981-4"), [http://www.thelightsinthetunnel.com](http://www.thelightsinthetunnel.com). 
-* 
-[Good, I. J.](http://en.wikipedia.org/wiki/I._J._Good "I. J. Good") (1965), Franz L. Alt and Morris Rubinoff, ed., ["Speculations Concerning the First Ultraintelligent Machine"](http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html),  ([Academic Press](http://en.wikipedia.org/wiki/Academic_Press "Academic Press")) 6: 31–88, archived from [the original](http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html) on 2001-05-27, [http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html](http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html), retrieved 2007-08-07 
-* 
-[Hanson, Robin](http://en.wikipedia.org/wiki/Robin_Hanson "Robin Hanson") (1998), [Some Skepticism](http://hanson.gmu.edu/vc.html#hanson), Robin Hanson, [http://hanson.gmu.edu/vc.html#hanson](http://hanson.gmu.edu/vc.html#hanson), retrieved 2009-06-19 []* 
-Hanson, Robin (June 2008), "Economics of the Singularity",  
-* 
-[Hawking, Stephen](http://en.wikipedia.org/wiki/Stephen_Hawking "Stephen Hawking") (1998), [Science in the Next Millennium: Remarks by Stephen Hawking](http://clinton2.nara.gov/Initiatives/Millennium/shawking.html), [http://clinton2.nara.gov/Initiatives/Millennium/shawking.html](http://clinton2.nara.gov/Initiatives/Millennium/shawking.html), retrieved 2007-11-13 
-* 
-[Hawkins, Gerald S.](http://en.wikipedia.org/wiki/Gerald_Hawkins "Gerald Hawkins") (August 1983), , HarperCollins, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-06-015156-0](http://en.wikipedia.org/wiki/Special:BookSources/0-06-015156-0 "Special:BookSources/0-06-015156-0") 
-* 
-[Heylighen, Francis](http://en.wikipedia.org/wiki/Francis_Heylighen "Francis Heylighen") (2007), ["Accelerating Socio-Technological Evolution: from ephemeralization and stigmergy to the global brain"](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf), in [Modelski](http://en.wikipedia.org/wiki/George_Modelski "George Modelski"), G.; Devezas, T.; Thompson, W., , London: Routledge, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-415-77361-4](http://en.wikipedia.org/wiki/Special:BookSources/978-0-415-77361-4 "Special:BookSources/978-0-415-77361-4"), [http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf) 
-* 
-Johansen, Anders; Sornette, Didier (25 January 2001), ["Finite-time singularity in the dynamics of the world population, economic and financial indices"](http://hjem.get2net.dk/kgs/growthphysA.pdf) (PDF), 294 (3–4): 465–502, [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/S0378-4371(01)00105-4](http://dx.doi.org/10.1016%2FS0378-4371%2801%2900105-4), [http://hjem.get2net.dk/kgs/growthphysA.pdf](http://hjem.get2net.dk/kgs/growthphysA.pdf), retrieved 2007-10-30 
-* 
-[Joy, Bill](http://en.wikipedia.org/wiki/Bill_Joy "Bill Joy") (April 2000), ["Why the future doesn’t need us"](http://www.wired.com/wired/archive/8.04/joy.html),  (Viking Adult) (8.04), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03249-2](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03249-2 "Special:BookSources/0-670-03249-2"), [http://www.wired.com/wired/archive/8.04/joy.html](http://www.wired.com/wired/archive/8.04/joy.html), retrieved 2007-08-07 
-* 
-[Kurzweil, Raymond](http://en.wikipedia.org/wiki/Raymond_Kurzweil "Raymond Kurzweil") (2001), [The Law of Accelerating Returns](http://lifeboat.com/ex/law.of.accelerating.returns), Lifeboat Foundation, [http://lifeboat.com/ex/law.of.accelerating.returns](http://lifeboat.com/ex/law.of.accelerating.returns), retrieved 2007-08-07 
-* 
-Kurzweil, Raymond (2005), , New York: Viking, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03384-7](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03384-7 "Special:BookSources/0-670-03384-7") 
-* 
-[Moravec, Hans](http://en.wikipedia.org/wiki/Hans_Moravec "Hans Moravec") (January 1992), ["Pigs in Cyberspace"](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html), , [http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html), retrieved 2007-11-21 
-* 
-[Schmidhuber, Jürgen](http://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber "Jürgen Schmidhuber") (29 June 2006). "New Millennium AI and the Convergence of History". [arXiv](http://en.wikipedia.org/wiki/ArXiv "ArXiv"):[cs/0606081](http://arxiv.org/abs/cs/0606081) [[cs.AI](http://arxiv.org/archive/cs.AI)]. 
-* 
-[Singularity Institute for Artificial Intelligence](http://en.wikipedia.org/wiki/Singularity_Institute_for_Artificial_Intelligence "Singularity Institute for Artificial Intelligence") (2002),  
-[Archived](http://web.archive.org/20061004201151/www.singinst.org/intro/whyAI-print.html) October 4, 2006 at the
-[Wayback Machine](http://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
-* 
-Singularity Institute for Artificial Intelligence (2004), [3 Laws Unsafe](http://www.asimovlaws.com/), [http://www.asimovlaws.com/](http://www.asimovlaws.com/), retrieved 2007-08-07 
-* 
-Singularity Institute for Artificial Intelligence (2007), [What is the Singularity?](http://www.singinst.org/overview/whatisthesingularity), [http://www.singinst.org/overview/whatisthesingularity](http://www.singinst.org/overview/whatisthesingularity), retrieved 2008-01-04 
-* 
-[Smart, John](http://en.wikipedia.org/wiki/John_Smart_(futurist) "John Smart (futurist)") (September 2005), [On Huebner Innovation](http://accelerating.org/articles/huebnerinnovation.html), Acceleration Studies Foundation, [http://accelerating.org/articles/huebnerinnovation.html](http://accelerating.org/articles/huebnerinnovation.html), retrieved 2007-08-07 
-* 
-[Ulam, Stanislaw](http://en.wikipedia.org/wiki/Stanislaw_Ulam "Stanislaw Ulam") (May 1958), "Tribute to John von Neumann", 64 (nr 3, part 2): 1–49 
-* 
-[Vinge, Vernor](http://en.wikipedia.org/wiki/Vernor_Vinge "Vernor Vinge") (30–31 March 1993), ["The Coming Technological Singularity"](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html),  ([NASA](http://en.wikipedia.org/wiki/NASA "NASA") Conference Publication CP-10129), [http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), retrieved 2007-08-07 . See also
-[this HTML version](http://mindstalk.net/vinge/vinge-sing.html), retrieved on 2009-03-29.
-* 
-[Warwick, Kevin](http://en.wikipedia.org/wiki/Kevin_Warwick "Kevin Warwick") (2004), , University of Illinois Press, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-252-07223-9](http://en.wikipedia.org/wiki/Special:BookSources/978-0-252-07223-9 "Special:BookSources/978-0-252-07223-9") 
+
+* Acceleration Studies Foundation (2007), [ASF: About the Foundation](http://www.accelerating.org/about.html), [http://www.accelerating.org/about.html](http://www.accelerating.org/about.html), retrieved 2007-11-13 
+* Anonymous (18 March 2006), ["More blades good"](http://www.economist.com/science/displaystory.cfm?story_id=5624861),  (London) 378 (8469): 85, [http://www.economist.com/science/displaystory.cfm?story_id=5624861](http://www.economist.com/science/displaystory.cfm?story_id=5624861) 
+* [Bell, James John](http://en.wikipedia.org/wiki/James_John_Bell "James John Bell") (2002), [Technotopia and the Death of Nature: Clones, Supercomputers, and Robots](http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/), Earth Island Journal (first published in the November/December 2001 issue of the ), [http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/](http://www.earthisland.org/journal/index.php/eij/article/technotopia_the_death_of_nature/), retrieved 2007-08-07 
+* Bell, James John (1 May 2003), ["Exploring The "Singularity""](http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm),  ([World Future Society](http://en.wikipedia.org/wiki/World_Future_Society "World Future Society") (mindfully.org)), [http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm](http://www.mindfully.org/Technology/2003/Singularity-Bell1may03.htm), retrieved 2007-08-07 
+* Berglas, Anthony (2008), [Artificial Intelligence will Kill our Grandchildren](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html), [http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html](http://berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html), retrieved 2008-06-13 
+* [Broderick, Damien](http://en.wikipedia.org/wiki/Damien_Broderick "Damien Broderick") (2001), , New York: Forge, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-312-87781-1](http://en.wikipedia.org/wiki/Special:BookSources/0-312-87781-1 "Special:BookSources/0-312-87781-1") 
+* [Bostrom, Nick](http://en.wikipedia.org/wiki/Nick_Bostrom "Nick Bostrom") (2002), ["Existential Risks"](http://www.nickbostrom.com/existential/risks.html), 9, [http://www.nickbostrom.com/existential/risks.html](http://www.nickbostrom.com/existential/risks.html), retrieved 2007-08-07 
+* Bostrom, Nick (2003), ["Ethical Issues in Advanced Artificial Intelligence"](http://www.nickbostrom.com/ethics/ai.html), 2: 12–17, [http://www.nickbostrom.com/ethics/ai.html](http://www.nickbostrom.com/ethics/ai.html), retrieved 2007-08-07 
+* [Dreyfus, Hubert L.](http://en.wikipedia.org/wiki/Hubert_Dreyfus "Hubert Dreyfus"); [Dreyfus, Stuart E.](http://en.wikipedia.org/wiki/Stuart_Dreyfus "Stuart Dreyfus") (1 March 2000),  (1 ed.), New York: Free Press, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-7432-0551-0](http://en.wikipedia.org/wiki/Special:BookSources/0-7432-0551-0 "Special:BookSources/0-7432-0551-0") 
+* Ford, Martin (2009), [The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future](http://www.thelightsinthetunnel.com), CreateSpace, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1-4486-5981-4](http://en.wikipedia.org/wiki/Special:BookSources/978-1-4486-5981-4 "Special:BookSources/978-1-4486-5981-4"), [http://www.thelightsinthetunnel.com](http://www.thelightsinthetunnel.com). 
+* [Good, I. J.](http://en.wikipedia.org/wiki/I._J._Good "I. J. Good") (1965), Franz L. Alt and Morris Rubinoff, ed., ["Speculations Concerning the First Ultraintelligent Machine"](http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html),  ([Academic Press](http://en.wikipedia.org/wiki/Academic_Press "Academic Press")) 6: 31–88, archived from [the original](http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html) on 2001-05-27, [http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html](http://web.archive.org/web/20010527181244/http://www.aeiveos.com/~bradbury/Authors/Computing/Good-IJ/SCtFUM.html), retrieved 2007-08-07 
+* [Hanson, Robin](http://en.wikipedia.org/wiki/Robin_Hanson "Robin Hanson") (1998), [Some Skepticism](http://hanson.gmu.edu/vc.html#hanson), Robin Hanson, [http://hanson.gmu.edu/vc.html#hanson](http://hanson.gmu.edu/vc.html#hanson), retrieved 2009-06-19 []
+* Hanson, Robin (June 2008), "Economics of the Singularity",  
+* [Hawking, Stephen](http://en.wikipedia.org/wiki/Stephen_Hawking "Stephen Hawking") (1998), [Science in the Next Millennium: Remarks by Stephen Hawking](http://clinton2.nara.gov/Initiatives/Millennium/shawking.html), [http://clinton2.nara.gov/Initiatives/Millennium/shawking.html](http://clinton2.nara.gov/Initiatives/Millennium/shawking.html), retrieved 2007-11-13 
+* [Hawkins, Gerald S.](http://en.wikipedia.org/wiki/Gerald_Hawkins "Gerald Hawkins") (August 1983), , HarperCollins, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-06-015156-0](http://en.wikipedia.org/wiki/Special:BookSources/0-06-015156-0 "Special:BookSources/0-06-015156-0") 
+* [Heylighen, Francis](http://en.wikipedia.org/wiki/Francis_Heylighen "Francis Heylighen") (2007), ["Accelerating Socio-Technological Evolution: from ephemeralization and stigmergy to the global brain"](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf), in [Modelski](http://en.wikipedia.org/wiki/George_Modelski "George Modelski"), G.; Devezas, T.; Thompson, W., , London: Routledge, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-415-77361-4](http://en.wikipedia.org/wiki/Special:BookSources/978-0-415-77361-4 "Special:BookSources/978-0-415-77361-4"), [http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf) 
+* Johansen, Anders; Sornette, Didier (25 January 2001), ["Finite-time singularity in the dynamics of the world population, economic and financial indices"](http://hjem.get2net.dk/kgs/growthphysA.pdf) (PDF), 294 (3–4): 465–502, [doi](http://en.wikipedia.org/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/S0378-4371(01)00105-4](http://dx.doi.org/10.1016%2FS0378-4371%2801%2900105-4), [http://hjem.get2net.dk/kgs/growthphysA.pdf](http://hjem.get2net.dk/kgs/growthphysA.pdf), retrieved 2007-10-30 
+* [Joy, Bill](http://en.wikipedia.org/wiki/Bill_Joy "Bill Joy") (April 2000), ["Why the future doesn’t need us"](http://www.wired.com/wired/archive/8.04/joy.html),  (Viking Adult) (8.04), [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03249-2](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03249-2 "Special:BookSources/0-670-03249-2"), [http://www.wired.com/wired/archive/8.04/joy.html](http://www.wired.com/wired/archive/8.04/joy.html), retrieved 2007-08-07 
+* [Kurzweil, Raymond](http://en.wikipedia.org/wiki/Raymond_Kurzweil "Raymond Kurzweil") (2001), [The Law of Accelerating Returns](http://lifeboat.com/ex/law.of.accelerating.returns), Lifeboat Foundation, [http://lifeboat.com/ex/law.of.accelerating.returns](http://lifeboat.com/ex/law.of.accelerating.returns), retrieved 2007-08-07 
+* Kurzweil, Raymond (2005), , New York: Viking, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [0-670-03384-7](http://en.wikipedia.org/wiki/Special:BookSources/0-670-03384-7 "Special:BookSources/0-670-03384-7") 
+* [Moravec, Hans](http://en.wikipedia.org/wiki/Hans_Moravec "Hans Moravec") (January 1992), ["Pigs in Cyberspace"](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html), , [http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html](http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1992/CyberPigs.html), retrieved 2007-11-21 
+* [Schmidhuber, Jürgen](http://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber "Jürgen Schmidhuber") (29 June 2006). "New Millennium AI and the Convergence of History". [arXiv](http://en.wikipedia.org/wiki/ArXiv "ArXiv"):[cs/0606081](http://arxiv.org/abs/cs/0606081) [[cs.AI](http://arxiv.org/archive/cs.AI)]. 
+* [Singularity Institute for Artificial Intelligence](http://en.wikipedia.org/wiki/Singularity_Institute_for_Artificial_Intelligence "Singularity Institute for Artificial Intelligence") (2002),  [Archived](http://web.archive.org/20061004201151/www.singinst.org/intro/whyAI-print.html) October 4, 2006 at the[Wayback Machine](http://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
+* Singularity Institute for Artificial Intelligence (2004), [3 Laws Unsafe](http://www.asimovlaws.com/), [http://www.asimovlaws.com/](http://www.asimovlaws.com/), retrieved 2007-08-07 
+* Singularity Institute for Artificial Intelligence (2007), [What is the Singularity?](http://www.singinst.org/overview/whatisthesingularity), [http://www.singinst.org/overview/whatisthesingularity](http://www.singinst.org/overview/whatisthesingularity), retrieved 2008-01-04 
+* [Smart, John](http://en.wikipedia.org/wiki/John_Smart_(futurist) "John Smart (futurist)") (September 2005), [On Huebner Innovation](http://accelerating.org/articles/huebnerinnovation.html), Acceleration Studies Foundation, [http://accelerating.org/articles/huebnerinnovation.html](http://accelerating.org/articles/huebnerinnovation.html), retrieved 2007-08-07 
+* [Ulam, Stanislaw](http://en.wikipedia.org/wiki/Stanislaw_Ulam "Stanislaw Ulam") (May 1958), "Tribute to John von Neumann", 64 (nr 3, part 2): 1–49 
+* [Vinge, Vernor](http://en.wikipedia.org/wiki/Vernor_Vinge "Vernor Vinge") (30–31 March 1993), ["The Coming Technological Singularity"](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html),  ([NASA](http://en.wikipedia.org/wiki/NASA "NASA") Conference Publication CP-10129), [http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), retrieved 2007-08-07 . See also[this HTML version](http://mindstalk.net/vinge/vinge-sing.html), retrieved on 2009-03-29.
+* [Warwick, Kevin](http://en.wikipedia.org/wiki/Kevin_Warwick "Kevin Warwick") (2004), , University of Illinois Press, [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-252-07223-9](http://en.wikipedia.org/wiki/Special:BookSources/978-0-252-07223-9 "Special:BookSources/978-0-252-07223-9") 
 
 ## [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=15 "Edit section: External links")]External links
 Listen to this article ([info/dl](http://en.wikipedia.org/wiki/File:TechSingularity.ogg "File:TechSingularity.ogg"))  
 ![Play sound](//bits.wikimedia.org/static-1.20wmf9/extensions/OggHandler/play.png)![](//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png)This audio file was created from a revision of the "Technological singularity" article dated 2010-04-03, and does not reflect subsequent edits to the article. ([Audio help](http://en.wikipedia.org/wiki/Wikipedia:Media_help "Wikipedia:Media help"))[More spoken articles](http://en.wikipedia.org/wiki/Wikipedia:Spoken_articles "Wikipedia:Spoken articles")### [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=16 "Edit section: Non-fiction books")]Non-fiction books
-* 
-[Singularity Rising: Surviving and Thriving in a Smarter, Richer, and More Dangerous World](http://www.amazon.com/Singularity-Rising-Surviving-Thriving-Dangerous/dp/1936661659/ref=sr_1_1?s=books&ie=UTF8&qid=1336165392&sr=1-1) by James D. Miller, October 16, 2012.
-* 
-[The Singularity Is Near: When Humans Transcend Biology](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/ref=tmm_pap_title_0) by
-[Ray Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil"), September 26, 2006.
-* 
-[The Spike: How Our Lives Are Being Transformed By Rapidly Advancing Technologies](http://www.amazon.com/Spike-Transformed-Rapidly-Advancing-Technologies/dp/031287782X/ref=sr_1_1?s=books&ie=UTF8&qid=1341175321&sr=1-1&keywords=the+spike) by Damien Broderick, February 9, 2002.
+
+* [Singularity Rising: Surviving and Thriving in a Smarter, Richer, and More Dangerous World](http://www.amazon.com/Singularity-Rising-Surviving-Thriving-Dangerous/dp/1936661659/ref=sr_1_1?s=books&ie=UTF8&qid=1336165392&sr=1-1) by James D. Miller, October 16, 2012.
+* [The Singularity Is Near: When Humans Transcend Biology](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/ref=tmm_pap_title_0) by[Ray Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil"), September 26, 2006.
+* [The Spike: How Our Lives Are Being Transformed By Rapidly Advancing Technologies](http://www.amazon.com/Spike-Transformed-Rapidly-Advancing-Technologies/dp/031287782X/ref=sr_1_1?s=books&ie=UTF8&qid=1341175321&sr=1-1&keywords=the+spike) by Damien Broderick, February 9, 2002.
 
 ### [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=17 "Edit section: Essays and articles")]Essays and articles
-* 
-[Singularities and Nightmares: Extremes of Optimism and Pessimism About the Human Future](http://lifeboat.com/ex/singularities.and.nightmares) by
-[David Brin](http://en.wikipedia.org/wiki/David_Brin "David Brin")
-* 
-[A Critical Discussion of Vinge’s Singularity Concept](http://hanson.gmu.edu/vi.html) by
-[Robin Hanson](http://en.wikipedia.org/wiki/Robin_Hanson "Robin Hanson")
-* 
-[Is a singularity just around the corner](http://hanson.gmu.edu/fastgrow.html) by Robin Hanson
-* 
-[Brief History of Intellectual Discussion of Accelerating Change](http://www.accelerationwatch.com/history_brief.html) by
-[John Smart](http://en.wikipedia.org/wiki/John_Smart_(futurist) "John Smart (futurist)")
-* 
-[One Half of a Manifesto](http://www.edge.org/documents/archive/edge74.html) by
-[Jaron Lanier](http://en.wikipedia.org/wiki/Jaron_Lanier "Jaron Lanier") — a critique of "cybernetic totalism"
-* 
-[One Half of an Argument](http://www.kurzweilai.net/meme/frame.html?main=/articles/art0236.html) —
-[Ray Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil")'s response to Lanier
-* 
-[A discussion of Kurzweil, Turkel and Lanier](http://fortnightlyreview.co.uk/2010/08/the-wonders-of-man-in-the-age-of-simulations/) by Roger Berkowitz
-* 
-[The Singularity Is Always Near](http://www.kk.org/thetechnium/archives/2006/02/the_singularity.php) by
-[Kevin Kelly](http://en.wikipedia.org/wiki/Kevin_Kelly_(editor) "Kevin Kelly (editor)")
-* 
-[The Maes-Garreau Point](http://www.kk.org/thetechnium/archives/2007/03/the_maesgarreau.php) by Kevin Kelly
-* 
-["The Singularity - A Philosophical Analysis"](http://consc.net/papers/singularity.pdf) by
-[David Chalmers](http://en.wikipedia.org/wiki/David_Chalmers "David Chalmers")
-* 
-[2045: The Year Man Becomes Immortal](http://www.time.com/time/health/article/0,8599,2048138,00.html), By Lev Grossman, time.com, Feb. 10, 2011.
+
+* [Singularities and Nightmares: Extremes of Optimism and Pessimism About the Human Future](http://lifeboat.com/ex/singularities.and.nightmares) by[David Brin](http://en.wikipedia.org/wiki/David_Brin "David Brin")
+* [A Critical Discussion of Vinge’s Singularity Concept](http://hanson.gmu.edu/vi.html) by[Robin Hanson](http://en.wikipedia.org/wiki/Robin_Hanson "Robin Hanson")
+* [Is a singularity just around the corner](http://hanson.gmu.edu/fastgrow.html) by Robin Hanson
+* [Brief History of Intellectual Discussion of Accelerating Change](http://www.accelerationwatch.com/history_brief.html) by[John Smart](http://en.wikipedia.org/wiki/John_Smart_(futurist) "John Smart (futurist)")
+* [One Half of a Manifesto](http://www.edge.org/documents/archive/edge74.html) by[Jaron Lanier](http://en.wikipedia.org/wiki/Jaron_Lanier "Jaron Lanier") — a critique of "cybernetic totalism"
+* [One Half of an Argument](http://www.kurzweilai.net/meme/frame.html?main=/articles/art0236.html) —[Ray Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil "Ray Kurzweil")'s response to Lanier
+* [A discussion of Kurzweil, Turkel and Lanier](http://fortnightlyreview.co.uk/2010/08/the-wonders-of-man-in-the-age-of-simulations/) by Roger Berkowitz
+* [The Singularity Is Always Near](http://www.kk.org/thetechnium/archives/2006/02/the_singularity.php) by[Kevin Kelly](http://en.wikipedia.org/wiki/Kevin_Kelly_(editor) "Kevin Kelly (editor)")
+* [The Maes-Garreau Point](http://www.kk.org/thetechnium/archives/2007/03/the_maesgarreau.php) by Kevin Kelly
+* ["The Singularity - A Philosophical Analysis"](http://consc.net/papers/singularity.pdf) by[David Chalmers](http://en.wikipedia.org/wiki/David_Chalmers "David Chalmers")
+* [2045: The Year Man Becomes Immortal](http://www.time.com/time/health/article/0,8599,2048138,00.html), By Lev Grossman, time.com, Feb. 10, 2011.
 
 ### [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=18 "Edit section: Singularity AI projects")]Singularity AI projects
-* [The Singularity Institute for Artificial Intelligence](http://www.singinst.org/)* [The SSEC Machine Intelligence Project](http://www.ssec.wisc.edu/~billh/g/mi.html)* [The Artificial General Intelligence Research Institute](http://www.agiri.org/)
+
+* [The Singularity Institute for Artificial Intelligence](http://www.singinst.org/)
+* [The SSEC Machine Intelligence Project](http://www.ssec.wisc.edu/~billh/g/mi.html)
+* [The Artificial General Intelligence Research Institute](http://www.agiri.org/)
+
 ### [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=19 "Edit section: Fiction")]Fiction
-* 
-[After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk uses a complex narrative structure to explore the relationships among uploaded minds in a technological singularity.
-* 
-[[Message Contains No Recognizable Symbols]](http://www.ssec.wisc.edu/~billh/g/mcnrs.html) by
-[Bill Hibbard](http://en.wikipedia.org/wiki/Bill_Hibbard "Bill Hibbard") is a story about a technological singularity subject to the constraint that natural human authors are unable to depict the actions and dialog of super-intelligent minds.
-* Much of
-[Ben Goertzel's fiction](http://goertzel.org/fiction.htm) discusses a technological singularity.
-* In "
-[The Turk](http://en.wikipedia.org/wiki/List_of_Terminator:_The_Sarah_Connor_Chronicles_minor_characters#John_Henry "List of Terminator: The Sarah Connor Chronicles minor characters")", an episode of the science fiction television series
-, John tells his mother about the singularity, a point in time when machines will be able to build superior versions of themselves without the aid of humans.
-* 
- by
-[Charles Stross](http://en.wikipedia.org/wiki/Charles_Stross "Charles Stross")
-* 
-, a webcomic by Aaron Diaz, often contains plots relating to the singularity and
-[transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism"), especially in the
- story arc
-* 
-[Endgame: Singularity](http://en.wikipedia.org/wiki/Endgame:_Singularity "Endgame: Singularity") is an
-[open source](http://en.wikipedia.org/wiki/Open_source "Open source") game where the player is AI, whose goal is to attain technological singularity/apotheosis.
+
+* [After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk uses a complex narrative structure to explore the relationships among uploaded minds in a technological singularity.
+* [[Message Contains No Recognizable Symbols]](http://www.ssec.wisc.edu/~billh/g/mcnrs.html) by[Bill Hibbard](http://en.wikipedia.org/wiki/Bill_Hibbard "Bill Hibbard") is a story about a technological singularity subject to the constraint that natural human authors are unable to depict the actions and dialog of super-intelligent minds.
+* Much of[Ben Goertzel's fiction](http://goertzel.org/fiction.htm) discusses a technological singularity.
+* In "[The Turk](http://en.wikipedia.org/wiki/List_of_Terminator:_The_Sarah_Connor_Chronicles_minor_characters#John_Henry "List of Terminator: The Sarah Connor Chronicles minor characters")", an episode of the science fiction television series, John tells his mother about the singularity, a point in time when machines will be able to build superior versions of themselves without the aid of humans.
+*  by[Charles Stross](http://en.wikipedia.org/wiki/Charles_Stross "Charles Stross")
+* , a webcomic by Aaron Diaz, often contains plots relating to the singularity and[transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism"), especially in the story arc
+* [Endgame: Singularity](http://en.wikipedia.org/wiki/Endgame:_Singularity "Endgame: Singularity") is an[open source](http://en.wikipedia.org/wiki/Open_source "Open source") game where the player is AI, whose goal is to attain technological singularity/apotheosis.
 
 ### [[edit](http://en.wikipedia.org/w/index.php?title=Technological_singularity&action=edit&section=20 "Edit section: Other links")]Other links
-* [Report on The Stanford Singularity Summit](http://www.jerrypournelle.com/reports/jerryp/singularity.html)* [2007 quotes, Singularity Summit, San Francisco](http://www.singinst.org/summit2007/quotes/)* [Singularity Hub](http://singularityhub.com)* [An IEEE report on the Singularity.](http://www.spectrum.ieee.org/static/singularity)* 
-[March 2007 Congressional Report on the Singularity](http://www.house.gov/jec/publications/110/nanotechnology_03-22-07.pdf)[Alternate Link](http://www.thenewatlantis.com/docLib/20120213_TheFutureisComingSoonerThanYouThink.pdf)
-* [The Global Transition](http://www.theglobaltransition.com)
-* [v](http://en.wikipedia.org/wiki/Template:Technology "Template:Technology")* [t](http://en.wikipedia.org/wiki/Template_talk:Technology "Template talk:Technology")* [e](//en.wikipedia.org/w/index.php?title=Template:Technology&action=edit)
-[Technology](http://en.wikipedia.org/wiki/Technology "Technology")* [Outline of technology](http://en.wikipedia.org/wiki/Outline_of_technology "Outline of technology")* [Outline of applied science](http://en.wikipedia.org/wiki/Outline_of_applied_science "Outline of applied science")
-Fields[Agriculture](http://en.wikipedia.org/wiki/Agriculture "Agriculture")* [Agricultural engineering](http://en.wikipedia.org/wiki/Agricultural_engineering "Agricultural engineering")* [Aquaculture](http://en.wikipedia.org/wiki/Aquaculture "Aquaculture")* [Fisheries science](http://en.wikipedia.org/wiki/Fisheries_science "Fisheries science")* [Food chemistry](http://en.wikipedia.org/wiki/Food_chemistry "Food chemistry")* [Food engineering](http://en.wikipedia.org/wiki/Food_engineering "Food engineering")* [Food microbiology](http://en.wikipedia.org/wiki/Food_microbiology "Food microbiology")* [Food technology](http://en.wikipedia.org/wiki/Food_technology "Food technology")* [GURT](http://en.wikipedia.org/wiki/Genetic_use_restriction_technology "Genetic use restriction technology")* [ICT in agriculture](http://en.wikipedia.org/wiki/ICT_in_agriculture "ICT in agriculture")* [Nutrition](http://en.wikipedia.org/wiki/Nutrition "Nutrition")
-[Biomedical](http://en.wikipedia.org/wiki/Biomedical_technology "Biomedical technology")* [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics "Bioinformatics")* [Biological engineering](http://en.wikipedia.org/wiki/Biological_engineering "Biological engineering")* [Biomechatronics](http://en.wikipedia.org/wiki/Biomechatronics "Biomechatronics")* [Biomedical engineering](http://en.wikipedia.org/wiki/Biomedical_engineering "Biomedical engineering")* [Biotechnology](http://en.wikipedia.org/wiki/Biotechnology "Biotechnology")* [Cheminformatics](http://en.wikipedia.org/wiki/Cheminformatics "Cheminformatics")* [Genetic engineering](http://en.wikipedia.org/wiki/Genetic_engineering "Genetic engineering")* [Healthcare science](http://en.wikipedia.org/wiki/Healthcare_science "Healthcare science")* [Medical research](http://en.wikipedia.org/wiki/Medical_research "Medical research")* [Medical technology](http://en.wikipedia.org/wiki/Medical_technology "Medical technology")* [Nanomedicine](http://en.wikipedia.org/wiki/Nanomedicine "Nanomedicine")* [Neuroscience](http://en.wikipedia.org/wiki/Neuroscience "Neuroscience")* [Neurotechnology](http://en.wikipedia.org/wiki/Neurotechnology "Neurotechnology")* [Pharmacology](http://en.wikipedia.org/wiki/Pharmacology "Pharmacology")* [Reproductive technology](http://en.wikipedia.org/wiki/Reproductive_technology "Reproductive technology")* [Tissue engineering](http://en.wikipedia.org/wiki/Tissue_engineering "Tissue engineering")
-Buildings and  
-[Construction](http://en.wikipedia.org/wiki/Construction "Construction")* [Acoustical engineering](http://en.wikipedia.org/wiki/Acoustical_engineering "Acoustical engineering")* [Architectural engineering](http://en.wikipedia.org/wiki/Architectural_engineering "Architectural engineering")* [Building services engineering](http://en.wikipedia.org/wiki/Building_services_engineering "Building services engineering")* [Civil engineering](http://en.wikipedia.org/wiki/Civil_engineering "Civil engineering")* [Construction engineering](http://en.wikipedia.org/wiki/Construction_engineering "Construction engineering")* [Domestic technology](http://en.wikipedia.org/wiki/Domestic_technology "Domestic technology")* [Facade engineering](http://en.wikipedia.org/wiki/Facade_engineering "Facade engineering")* [Fire protection engineering](http://en.wikipedia.org/wiki/Fire_protection_engineering "Fire protection engineering")* [Safety engineering](http://en.wikipedia.org/wiki/Safety_engineering "Safety engineering")* [Sanitary engineering](http://en.wikipedia.org/wiki/Sanitary_engineering "Sanitary engineering")* [Structural engineering](http://en.wikipedia.org/wiki/Structural_engineering "Structural engineering")
-[Educational](http://en.wikipedia.org/wiki/Educational_technology "Educational technology")* [Educational software](http://en.wikipedia.org/wiki/Educational_software "Educational software")* [Digital technologies in education](http://en.wikipedia.org/wiki/Digital_technologies_in_education "Digital technologies in education")* [ICT in education](http://en.wikipedia.org/wiki/Information_and_communication_technologies_in_education "Information and communication technologies in education")* [Impact](http://en.wikipedia.org/wiki/Impact_of_technology_on_the_educational_system "Impact of technology on the educational system")* [Multimedia learning](http://en.wikipedia.org/wiki/Multimedia_learning "Multimedia learning")* [Virtual campus](http://en.wikipedia.org/wiki/Virtual_campus "Virtual campus")* [Virtual education](http://en.wikipedia.org/wiki/Virtual_education "Virtual education")
-[Energy](http://en.wikipedia.org/wiki/Energy_technology "Energy technology")* [Nuclear engineering](http://en.wikipedia.org/wiki/Nuclear_engineering "Nuclear engineering")* [Nuclear technology](http://en.wikipedia.org/wiki/Nuclear_technology "Nuclear technology")* [Petroleum engineering](http://en.wikipedia.org/wiki/Petroleum_engineering "Petroleum engineering")* [Soft energy technology](http://en.wikipedia.org/wiki/Soft_energy_technology "Soft energy technology")
-[Environmental](http://en.wikipedia.org/wiki/Environmental_technology "Environmental technology")* [Clean technology](http://en.wikipedia.org/wiki/Clean_technology "Clean technology")* [Clean coal technology](http://en.wikipedia.org/wiki/Clean_coal_technology "Clean coal technology")* [Ecological design](http://en.wikipedia.org/wiki/Ecological_design "Ecological design")* [Ecological engineering](http://en.wikipedia.org/wiki/Ecological_engineering "Ecological engineering")* [Ecotechnology](http://en.wikipedia.org/wiki/Ecotechnology "Ecotechnology")* [Environmental engineering](http://en.wikipedia.org/wiki/Environmental_engineering "Environmental engineering")* [Environmental engineering science](http://en.wikipedia.org/wiki/Environmental_engineering_science "Environmental engineering science")* [Green building](http://en.wikipedia.org/wiki/Green_building "Green building")* [Green nanotechnology](http://en.wikipedia.org/wiki/Green_nanotechnology "Green nanotechnology")* [Landscape engineering](http://en.wikipedia.org/wiki/Landscape_engineering "Landscape engineering")* [Renewable energy](http://en.wikipedia.org/wiki/Renewable_energy "Renewable energy")* [Sustainable design](http://en.wikipedia.org/wiki/Sustainable_design "Sustainable design")* [Sustainable engineering](http://en.wikipedia.org/wiki/Sustainable_engineering "Sustainable engineering")
-[Industrial](http://en.wikipedia.org/wiki/Industrial_technology "Industrial technology")* [Automation](http://en.wikipedia.org/wiki/Automation "Automation")* [Business informatics](http://en.wikipedia.org/wiki/Business_informatics "Business informatics")* [Engineering management](http://en.wikipedia.org/wiki/Engineering_management "Engineering management")* [Enterprise engineering](http://en.wikipedia.org/wiki/Enterprise_engineering "Enterprise engineering")* [Financial engineering](http://en.wikipedia.org/wiki/Computational_finance "Computational finance")* [Industrial biotechnology](http://en.wikipedia.org/wiki/Industrial_biotechnology "Industrial biotechnology")* [Industrial engineering](http://en.wikipedia.org/wiki/Industrial_engineering "Industrial engineering")* [Metallurgy](http://en.wikipedia.org/wiki/Metallurgy "Metallurgy")* [Mining engineering](http://en.wikipedia.org/wiki/Mining_engineering "Mining engineering")* [Productivity improving technologies](http://en.wikipedia.org/wiki/Productivity_improving_technologies_(historical) "Productivity improving technologies (historical)")* [Research and development](http://en.wikipedia.org/wiki/Research_and_development "Research and development")
-[IT and communications](http://en.wikipedia.org/wiki/Information_and_communications_technology "Information and communications technology")* [Artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence")* [Broadcast engineering](http://en.wikipedia.org/wiki/Broadcast_engineering "Broadcast engineering")* [Computer engineering](http://en.wikipedia.org/wiki/Computer_engineering "Computer engineering")* [Computer science](http://en.wikipedia.org/wiki/Computer_science "Computer science")* [Information technology](http://en.wikipedia.org/wiki/Information_technology "Information technology")* [Music technology](http://en.wikipedia.org/wiki/Music_technology "Music technology")* [Ontology engineering](http://en.wikipedia.org/wiki/Ontology_engineering "Ontology engineering")* [RF engineering](http://en.wikipedia.org/wiki/RF_engineering "RF engineering")* [Software engineering](http://en.wikipedia.org/wiki/Software_engineering "Software engineering")* [Telecommunications engineering](http://en.wikipedia.org/wiki/Telecommunications_engineering "Telecommunications engineering")* [Visual technology](http://en.wikipedia.org/wiki/Visual_technology "Visual technology")
-[Military](http://en.wikipedia.org/wiki/Military_technology "Military technology")* [Army engineering maintenance](http://en.wikipedia.org/wiki/Army_engineering_maintenance "Army engineering maintenance")* [Electronic warfare](http://en.wikipedia.org/wiki/Electronic_warfare "Electronic warfare")* [Military communications](http://en.wikipedia.org/wiki/Military_communications "Military communications")* [Military engineering](http://en.wikipedia.org/wiki/Military_engineering "Military engineering")* [Stealth technology](http://en.wikipedia.org/wiki/Stealth_technology "Stealth technology")
-[Transport](http://en.wikipedia.org/wiki/Transport "Transport")* [Aerospace engineering](http://en.wikipedia.org/wiki/Aerospace_engineering "Aerospace engineering")* [Automotive engineering](http://en.wikipedia.org/wiki/Automotive_engineering "Automotive engineering")* [Naval architecture](http://en.wikipedia.org/wiki/Naval_architecture "Naval architecture")* [Space technology](http://en.wikipedia.org/wiki/Space_technology "Space technology")* [Traffic engineering](http://en.wikipedia.org/wiki/Traffic_engineering_(transportation) "Traffic engineering (transportation)")* [Transport engineering](http://en.wikipedia.org/wiki/Transport_engineering "Transport engineering")
-Other [applied sciences](http://en.wikipedia.org/wiki/Applied_science "Applied science")* [Cryogenics](http://en.wikipedia.org/wiki/Cryogenics "Cryogenics")* [Electronics](http://en.wikipedia.org/wiki/Electronics "Electronics")* [Engineering geology](http://en.wikipedia.org/wiki/Engineering_geology "Engineering geology")* [Engineering physics](http://en.wikipedia.org/wiki/Engineering_physics "Engineering physics")* [Hydraulics](http://en.wikipedia.org/wiki/Hydraulics "Hydraulics")* [Materials science](http://en.wikipedia.org/wiki/Materials_science "Materials science")* [Microtechnology](http://en.wikipedia.org/wiki/Microtechnology "Microtechnology")* [Nanotechnology](http://en.wikipedia.org/wiki/Nanotechnology "Nanotechnology")* [Particle physics](http://en.wikipedia.org/wiki/Particle_physics "Particle physics")
-Other [engineering](http://en.wikipedia.org/wiki/Engineering "Engineering")[fields](http://en.wikipedia.org/wiki/List_of_engineering_branches "List of engineering branches")* [Audio](http://en.wikipedia.org/wiki/Audio_engineering "Audio engineering")* [Biochemical](http://en.wikipedia.org/wiki/Biochemical_engineering "Biochemical engineering")* [Ceramic](http://en.wikipedia.org/wiki/Ceramic_engineering "Ceramic engineering")* [Chemical](http://en.wikipedia.org/wiki/Chemical_engineering "Chemical engineering")* [Control](http://en.wikipedia.org/wiki/Control_engineering "Control engineering")* [Electrical](http://en.wikipedia.org/wiki/Electrical_engineering "Electrical engineering")* [Electronic](http://en.wikipedia.org/wiki/Electronic_engineering "Electronic engineering")* [Entertainment](http://en.wikipedia.org/wiki/Entertainment_technology "Entertainment technology")* [Geotechnical](http://en.wikipedia.org/wiki/Geotechnical_engineering "Geotechnical engineering")* [Hydraulic](http://en.wikipedia.org/wiki/Hydraulic_engineering "Hydraulic engineering")* [Mechanical](http://en.wikipedia.org/wiki/Mechanical_engineering "Mechanical engineering")* [Mechatronics](http://en.wikipedia.org/wiki/Mechatronics "Mechatronics")* [Optical](http://en.wikipedia.org/wiki/Optical_engineering "Optical engineering")* [Protein](http://en.wikipedia.org/wiki/Protein_engineering "Protein engineering")* [Quantum](http://en.wikipedia.org/wiki/Quantum_technology "Quantum technology")* [Robotics](http://en.wikipedia.org/wiki/Robotics "Robotics")* [Systems](http://en.wikipedia.org/wiki/Systems_engineering "Systems engineering")
-[History](http://en.wikipedia.org/wiki/History_of_technology "History of technology")* [Prehistoric technology](http://en.wikipedia.org/wiki/Outline_of_prehistoric_technology "Outline of prehistoric technology")* [Neolithic Revolution](http://en.wikipedia.org/wiki/Neolithic_Revolution "Neolithic Revolution")* [Ancient technology](http://en.wikipedia.org/wiki/Ancient_technology "Ancient technology")* [Medieval technology](http://en.wikipedia.org/wiki/Medieval_technology "Medieval technology")* [Renaissance technology](http://en.wikipedia.org/wiki/Renaissance_technology "Renaissance technology")* 
-[Industrial Revolution](http://en.wikipedia.org/wiki/Industrial_Revolution "Industrial Revolution")
-    * [Second](http://en.wikipedia.org/wiki/Second_Industrial_Revolution "Second Industrial Revolution")
-* [Jet Age](http://en.wikipedia.org/wiki/Jet_Age "Jet Age")* [Information Age](http://en.wikipedia.org/wiki/Information_Age "Information Age")
-[Theories](http://en.wikipedia.org/wiki/Theories_of_technology "Theories of technology") and  
- concepts* [Appropriate technology](http://en.wikipedia.org/wiki/Appropriate_technology "Appropriate technology")* [Critique of technology](http://en.wikipedia.org/wiki/Critique_of_technology "Critique of technology")* [Diffusion of innovations](http://en.wikipedia.org/wiki/Diffusion_of_innovations "Diffusion of innovations")* [Disruptive innovation](http://en.wikipedia.org/wiki/Disruptive_innovation "Disruptive innovation")* [Ephemeralization](http://en.wikipedia.org/wiki/Ephemeralization "Ephemeralization")* [Ethics of technology](http://en.wikipedia.org/wiki/Ethics_of_technology "Ethics of technology")* [High tech](http://en.wikipedia.org/wiki/High_tech "High tech")* [Hype cycle](http://en.wikipedia.org/wiki/Hype_cycle "Hype cycle")* [Inevitability thesis](http://en.wikipedia.org/wiki/Inevitability_thesis "Inevitability thesis")* [Low-technology](http://en.wikipedia.org/wiki/Low-technology "Low-technology")* [Mature technology](http://en.wikipedia.org/wiki/Mature_technology "Mature technology")* [Philosophy of technology](http://en.wikipedia.org/wiki/Philosophy_of_technology "Philosophy of technology")* [Posthumanism](http://en.wikipedia.org/wiki/Posthumanism "Posthumanism")* [Strategy of Technology](http://en.wikipedia.org/wiki/Strategy_of_Technology "Strategy of Technology")* [Technicism](http://en.wikipedia.org/wiki/Technicism "Technicism")* [Techno-progressivism](http://en.wikipedia.org/wiki/Techno-progressivism "Techno-progressivism")* [Technocapitalism](http://en.wikipedia.org/wiki/Technocapitalism "Technocapitalism")* [Technocentrism](http://en.wikipedia.org/wiki/Technocentrism "Technocentrism")* [Technocracy](http://en.wikipedia.org/wiki/Technocracy "Technocracy")* [Technocriticism](http://en.wikipedia.org/wiki/Technocriticism "Technocriticism")* [Technological change](http://en.wikipedia.org/wiki/Technological_change "Technological change")* [Technological convergence](http://en.wikipedia.org/wiki/Technological_convergence "Technological convergence")* [Technological determinism](http://en.wikipedia.org/wiki/Technological_determinism "Technological determinism")* [Technological escalation](http://en.wikipedia.org/wiki/Technological_escalation "Technological escalation")* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")* [Technological fix](http://en.wikipedia.org/wiki/Technological_fix "Technological fix")* [Technological innovation system](http://en.wikipedia.org/wiki/Technological_innovation_system "Technological innovation system")* [Technological momentum](http://en.wikipedia.org/wiki/Technological_momentum "Technological momentum")* [Technological nationalism](http://en.wikipedia.org/wiki/Technological_nationalism "Technological nationalism")* [Technological rationality](http://en.wikipedia.org/wiki/Technological_rationality "Technological rationality")* [Technological revival](http://en.wikipedia.org/wiki/Technological_revival "Technological revival")* **Technological singularity*** [Technological somnambulism](http://en.wikipedia.org/wiki/Technological_somnambulism "Technological somnambulism")* [Technological utopianism](http://en.wikipedia.org/wiki/Technological_utopianism "Technological utopianism")* 
-[Technology lifecycle](http://en.wikipedia.org/wiki/Technology_lifecycle "Technology lifecycle")
-    * [Technology acceptance model](http://en.wikipedia.org/wiki/Technology_acceptance_model "Technology acceptance model")    * [Technology adoption lifecycle](http://en.wikipedia.org/wiki/Technology_adoption_lifecycle "Technology adoption lifecycle")
-* [Technorealism](http://en.wikipedia.org/wiki/Technorealism "Technorealism")* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")
-Other* 
-[Emerging technologies](http://en.wikipedia.org/wiki/Emerging_technologies "Emerging technologies")
-    * [List](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")
-* [Fictional technology](http://en.wikipedia.org/wiki/Fictional_technology "Fictional technology")* [High-technology business districts](http://en.wikipedia.org/wiki/Category:High-technology_business_districts "Category:High-technology business districts")* 
-[Inventions](http://en.wikipedia.org/wiki/Invention "Invention")
-    * [Timeline](http://en.wikipedia.org/wiki/Timeline_of_historic_inventions "Timeline of historic inventions")
-* [Kardashev scale](http://en.wikipedia.org/wiki/Kardashev_scale "Kardashev scale")* [List of technologies](http://en.wikipedia.org/wiki/List_of_technologies "List of technologies")* [Science and technology by country](http://en.wikipedia.org/wiki/Category:Science_and_technology_by_country "Category:Science and technology by country")* [Technology alignment](http://en.wikipedia.org/wiki/Technology_alignment "Technology alignment")* [Technology assessment](http://en.wikipedia.org/wiki/Technology_assessment "Technology assessment")* [Technology brokering](http://en.wikipedia.org/wiki/Technology_brokering "Technology brokering")* [Technology companies](http://en.wikipedia.org/wiki/Category:Technology_companies "Category:Technology companies")* [Technology demonstration](http://en.wikipedia.org/wiki/Technology_demonstration "Technology demonstration")* 
-[Technology education](http://en.wikipedia.org/wiki/Technology_education "Technology education")
-    * [Technical universities and colleges](http://en.wikipedia.org/wiki/Category:Technical_universities_and_colleges "Category:Technical universities and colleges")
-* [Technology governance](http://en.wikipedia.org/wiki/Technology_governance "Technology governance")* [Technology integration](http://en.wikipedia.org/wiki/Technology_integration "Technology integration")* [Technology journalism](http://en.wikipedia.org/wiki/Technology_journalism "Technology journalism")* [Technology management](http://en.wikipedia.org/wiki/Technology_management "Technology management")* [Technology shock](http://en.wikipedia.org/wiki/Technology_shock "Technology shock")* [Technology strategy](http://en.wikipedia.org/wiki/Technology_strategy "Technology strategy")* [Technology and society](http://en.wikipedia.org/wiki/Technology_and_society "Technology and society")* [Technology transfer](http://en.wikipedia.org/wiki/Technology_transfer "Technology transfer")
-* 
-![Wikipedia book](//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png)[Book](http://en.wikipedia.org/wiki/Book:Technology "Book:Technology")
-* 
-![Category](//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png)[Category](http://en.wikipedia.org/wiki/Category:Technology "Category:Technology")
-* 
-![Commons page](//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/16px-Commons-logo.svg.png)[Commons](//commons.wikimedia.org/wiki/Category:Technology "commons:Category:Technology")
-* 
-![Portal](//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png)[Portal](http://en.wikipedia.org/wiki/Portal:Technology "Portal:Technology")
-* 
-![Wikiquote page](//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/16px-Wikiquote-logo.svg.png)[Wikiquotes](//en.wikiquote.org/wiki/Technology "wikiquote:Technology")
 
-* [v](http://en.wikipedia.org/wiki/Template:Emerging_technologies "Template:Emerging technologies")* [t](http://en.wikipedia.org/wiki/Template_talk:Emerging_technologies "Template talk:Emerging technologies")* [e](//en.wikipedia.org/w/index.php?title=Template:Emerging_technologies&action=edit)
-[Emerging technologies](http://en.wikipedia.org/wiki/Emerging_technologies "Emerging technologies")[Technology](http://en.wikipedia.org/wiki/Technology "Technology")Fields[Agriculture](http://en.wikipedia.org/wiki/Agriculture "Agriculture")* [Agricultural robot](http://en.wikipedia.org/wiki/Agricultural_robot "Agricultural robot")* [In vitro meat](http://en.wikipedia.org/wiki/In_vitro_meat "In vitro meat")* [Genetically modified food](http://en.wikipedia.org/wiki/Genetically_modified_food "Genetically modified food")* [Precision agriculture](http://en.wikipedia.org/wiki/Precision_agriculture "Precision agriculture")* [Vertical farming](http://en.wikipedia.org/wiki/Vertical_farming "Vertical farming")
-[Biomedical](http://en.wikipedia.org/wiki/Biomedical_technology "Biomedical technology")* [Ampakine](http://en.wikipedia.org/wiki/Ampakine "Ampakine")* [Brain transplant](http://en.wikipedia.org/wiki/Brain_transplant "Brain transplant")* [Cryonics](http://en.wikipedia.org/wiki/Cryonics "Cryonics")* [Full genome sequencing](http://en.wikipedia.org/wiki/Full_genome_sequencing "Full genome sequencing")* 
-[Genetic engineering](http://en.wikipedia.org/wiki/Genetic_engineering "Genetic engineering")
+* [Report on The Stanford Singularity Summit](http://www.jerrypournelle.com/reports/jerryp/singularity.html)
+* [2007 quotes, Singularity Summit, San Francisco](http://www.singinst.org/summit2007/quotes/)
+* [Singularity Hub](http://singularityhub.com)
+* [An IEEE report on the Singularity.](http://www.spectrum.ieee.org/static/singularity)
+* [March 2007 Congressional Report on the Singularity](http://www.house.gov/jec/publications/110/nanotechnology_03-22-07.pdf)[Alternate Link](http://www.thenewatlantis.com/docLib/20120213_TheFutureisComingSoonerThanYouThink.pdf)
+* [The Global Transition](http://www.theglobaltransition.com)
+
+* [v](http://en.wikipedia.org/wiki/Template:Technology "Template:Technology")
+* [t](http://en.wikipedia.org/wiki/Template_talk:Technology "Template talk:Technology")
+* [e](//en.wikipedia.org/w/index.php?title=Template:Technology&action=edit)
+
+[Technology](http://en.wikipedia.org/wiki/Technology "Technology")
+* [Outline of technology](http://en.wikipedia.org/wiki/Outline_of_technology "Outline of technology")
+* [Outline of applied science](http://en.wikipedia.org/wiki/Outline_of_applied_science "Outline of applied science")
+
+Fields[Agriculture](http://en.wikipedia.org/wiki/Agriculture "Agriculture")
+* [Agricultural engineering](http://en.wikipedia.org/wiki/Agricultural_engineering "Agricultural engineering")
+* [Aquaculture](http://en.wikipedia.org/wiki/Aquaculture "Aquaculture")
+* [Fisheries science](http://en.wikipedia.org/wiki/Fisheries_science "Fisheries science")
+* [Food chemistry](http://en.wikipedia.org/wiki/Food_chemistry "Food chemistry")
+* [Food engineering](http://en.wikipedia.org/wiki/Food_engineering "Food engineering")
+* [Food microbiology](http://en.wikipedia.org/wiki/Food_microbiology "Food microbiology")
+* [Food technology](http://en.wikipedia.org/wiki/Food_technology "Food technology")
+* [GURT](http://en.wikipedia.org/wiki/Genetic_use_restriction_technology "Genetic use restriction technology")
+* [ICT in agriculture](http://en.wikipedia.org/wiki/ICT_in_agriculture "ICT in agriculture")
+* [Nutrition](http://en.wikipedia.org/wiki/Nutrition "Nutrition")
+
+[Biomedical](http://en.wikipedia.org/wiki/Biomedical_technology "Biomedical technology")
+* [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics "Bioinformatics")
+* [Biological engineering](http://en.wikipedia.org/wiki/Biological_engineering "Biological engineering")
+* [Biomechatronics](http://en.wikipedia.org/wiki/Biomechatronics "Biomechatronics")
+* [Biomedical engineering](http://en.wikipedia.org/wiki/Biomedical_engineering "Biomedical engineering")
+* [Biotechnology](http://en.wikipedia.org/wiki/Biotechnology "Biotechnology")
+* [Cheminformatics](http://en.wikipedia.org/wiki/Cheminformatics "Cheminformatics")
+* [Genetic engineering](http://en.wikipedia.org/wiki/Genetic_engineering "Genetic engineering")
+* [Healthcare science](http://en.wikipedia.org/wiki/Healthcare_science "Healthcare science")
+* [Medical research](http://en.wikipedia.org/wiki/Medical_research "Medical research")
+* [Medical technology](http://en.wikipedia.org/wiki/Medical_technology "Medical technology")
+* [Nanomedicine](http://en.wikipedia.org/wiki/Nanomedicine "Nanomedicine")
+* [Neuroscience](http://en.wikipedia.org/wiki/Neuroscience "Neuroscience")
+* [Neurotechnology](http://en.wikipedia.org/wiki/Neurotechnology "Neurotechnology")
+* [Pharmacology](http://en.wikipedia.org/wiki/Pharmacology "Pharmacology")
+* [Reproductive technology](http://en.wikipedia.org/wiki/Reproductive_technology "Reproductive technology")
+* [Tissue engineering](http://en.wikipedia.org/wiki/Tissue_engineering "Tissue engineering")
+
+Buildings and  
+[Construction](http://en.wikipedia.org/wiki/Construction "Construction")
+* [Acoustical engineering](http://en.wikipedia.org/wiki/Acoustical_engineering "Acoustical engineering")
+* [Architectural engineering](http://en.wikipedia.org/wiki/Architectural_engineering "Architectural engineering")
+* [Building services engineering](http://en.wikipedia.org/wiki/Building_services_engineering "Building services engineering")
+* [Civil engineering](http://en.wikipedia.org/wiki/Civil_engineering "Civil engineering")
+* [Construction engineering](http://en.wikipedia.org/wiki/Construction_engineering "Construction engineering")
+* [Domestic technology](http://en.wikipedia.org/wiki/Domestic_technology "Domestic technology")
+* [Facade engineering](http://en.wikipedia.org/wiki/Facade_engineering "Facade engineering")
+* [Fire protection engineering](http://en.wikipedia.org/wiki/Fire_protection_engineering "Fire protection engineering")
+* [Safety engineering](http://en.wikipedia.org/wiki/Safety_engineering "Safety engineering")
+* [Sanitary engineering](http://en.wikipedia.org/wiki/Sanitary_engineering "Sanitary engineering")
+* [Structural engineering](http://en.wikipedia.org/wiki/Structural_engineering "Structural engineering")
+
+[Educational](http://en.wikipedia.org/wiki/Educational_technology "Educational technology")
+* [Educational software](http://en.wikipedia.org/wiki/Educational_software "Educational software")
+* [Digital technologies in education](http://en.wikipedia.org/wiki/Digital_technologies_in_education "Digital technologies in education")
+* [ICT in education](http://en.wikipedia.org/wiki/Information_and_communication_technologies_in_education "Information and communication technologies in education")
+* [Impact](http://en.wikipedia.org/wiki/Impact_of_technology_on_the_educational_system "Impact of technology on the educational system")
+* [Multimedia learning](http://en.wikipedia.org/wiki/Multimedia_learning "Multimedia learning")
+* [Virtual campus](http://en.wikipedia.org/wiki/Virtual_campus "Virtual campus")
+* [Virtual education](http://en.wikipedia.org/wiki/Virtual_education "Virtual education")
+
+[Energy](http://en.wikipedia.org/wiki/Energy_technology "Energy technology")
+* [Nuclear engineering](http://en.wikipedia.org/wiki/Nuclear_engineering "Nuclear engineering")
+* [Nuclear technology](http://en.wikipedia.org/wiki/Nuclear_technology "Nuclear technology")
+* [Petroleum engineering](http://en.wikipedia.org/wiki/Petroleum_engineering "Petroleum engineering")
+* [Soft energy technology](http://en.wikipedia.org/wiki/Soft_energy_technology "Soft energy technology")
+
+[Environmental](http://en.wikipedia.org/wiki/Environmental_technology "Environmental technology")
+* [Clean technology](http://en.wikipedia.org/wiki/Clean_technology "Clean technology")
+* [Clean coal technology](http://en.wikipedia.org/wiki/Clean_coal_technology "Clean coal technology")
+* [Ecological design](http://en.wikipedia.org/wiki/Ecological_design "Ecological design")
+* [Ecological engineering](http://en.wikipedia.org/wiki/Ecological_engineering "Ecological engineering")
+* [Ecotechnology](http://en.wikipedia.org/wiki/Ecotechnology "Ecotechnology")
+* [Environmental engineering](http://en.wikipedia.org/wiki/Environmental_engineering "Environmental engineering")
+* [Environmental engineering science](http://en.wikipedia.org/wiki/Environmental_engineering_science "Environmental engineering science")
+* [Green building](http://en.wikipedia.org/wiki/Green_building "Green building")
+* [Green nanotechnology](http://en.wikipedia.org/wiki/Green_nanotechnology "Green nanotechnology")
+* [Landscape engineering](http://en.wikipedia.org/wiki/Landscape_engineering "Landscape engineering")
+* [Renewable energy](http://en.wikipedia.org/wiki/Renewable_energy "Renewable energy")
+* [Sustainable design](http://en.wikipedia.org/wiki/Sustainable_design "Sustainable design")
+* [Sustainable engineering](http://en.wikipedia.org/wiki/Sustainable_engineering "Sustainable engineering")
+
+[Industrial](http://en.wikipedia.org/wiki/Industrial_technology "Industrial technology")
+* [Automation](http://en.wikipedia.org/wiki/Automation "Automation")
+* [Business informatics](http://en.wikipedia.org/wiki/Business_informatics "Business informatics")
+* [Engineering management](http://en.wikipedia.org/wiki/Engineering_management "Engineering management")
+* [Enterprise engineering](http://en.wikipedia.org/wiki/Enterprise_engineering "Enterprise engineering")
+* [Financial engineering](http://en.wikipedia.org/wiki/Computational_finance "Computational finance")
+* [Industrial biotechnology](http://en.wikipedia.org/wiki/Industrial_biotechnology "Industrial biotechnology")
+* [Industrial engineering](http://en.wikipedia.org/wiki/Industrial_engineering "Industrial engineering")
+* [Metallurgy](http://en.wikipedia.org/wiki/Metallurgy "Metallurgy")
+* [Mining engineering](http://en.wikipedia.org/wiki/Mining_engineering "Mining engineering")
+* [Productivity improving technologies](http://en.wikipedia.org/wiki/Productivity_improving_technologies_(historical) "Productivity improving technologies (historical)")
+* [Research and development](http://en.wikipedia.org/wiki/Research_and_development "Research and development")
+
+[IT and communications](http://en.wikipedia.org/wiki/Information_and_communications_technology "Information and communications technology")
+* [Artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence")
+* [Broadcast engineering](http://en.wikipedia.org/wiki/Broadcast_engineering "Broadcast engineering")
+* [Computer engineering](http://en.wikipedia.org/wiki/Computer_engineering "Computer engineering")
+* [Computer science](http://en.wikipedia.org/wiki/Computer_science "Computer science")
+* [Information technology](http://en.wikipedia.org/wiki/Information_technology "Information technology")
+* [Music technology](http://en.wikipedia.org/wiki/Music_technology "Music technology")
+* [Ontology engineering](http://en.wikipedia.org/wiki/Ontology_engineering "Ontology engineering")
+* [RF engineering](http://en.wikipedia.org/wiki/RF_engineering "RF engineering")
+* [Software engineering](http://en.wikipedia.org/wiki/Software_engineering "Software engineering")
+* [Telecommunications engineering](http://en.wikipedia.org/wiki/Telecommunications_engineering "Telecommunications engineering")
+* [Visual technology](http://en.wikipedia.org/wiki/Visual_technology "Visual technology")
+
+[Military](http://en.wikipedia.org/wiki/Military_technology "Military technology")
+* [Army engineering maintenance](http://en.wikipedia.org/wiki/Army_engineering_maintenance "Army engineering maintenance")
+* [Electronic warfare](http://en.wikipedia.org/wiki/Electronic_warfare "Electronic warfare")
+* [Military communications](http://en.wikipedia.org/wiki/Military_communications "Military communications")
+* [Military engineering](http://en.wikipedia.org/wiki/Military_engineering "Military engineering")
+* [Stealth technology](http://en.wikipedia.org/wiki/Stealth_technology "Stealth technology")
+
+[Transport](http://en.wikipedia.org/wiki/Transport "Transport")
+* [Aerospace engineering](http://en.wikipedia.org/wiki/Aerospace_engineering "Aerospace engineering")
+* [Automotive engineering](http://en.wikipedia.org/wiki/Automotive_engineering "Automotive engineering")
+* [Naval architecture](http://en.wikipedia.org/wiki/Naval_architecture "Naval architecture")
+* [Space technology](http://en.wikipedia.org/wiki/Space_technology "Space technology")
+* [Traffic engineering](http://en.wikipedia.org/wiki/Traffic_engineering_(transportation) "Traffic engineering (transportation)")
+* [Transport engineering](http://en.wikipedia.org/wiki/Transport_engineering "Transport engineering")
+
+Other [applied sciences](http://en.wikipedia.org/wiki/Applied_science "Applied science")
+* [Cryogenics](http://en.wikipedia.org/wiki/Cryogenics "Cryogenics")
+* [Electronics](http://en.wikipedia.org/wiki/Electronics "Electronics")
+* [Engineering geology](http://en.wikipedia.org/wiki/Engineering_geology "Engineering geology")
+* [Engineering physics](http://en.wikipedia.org/wiki/Engineering_physics "Engineering physics")
+* [Hydraulics](http://en.wikipedia.org/wiki/Hydraulics "Hydraulics")
+* [Materials science](http://en.wikipedia.org/wiki/Materials_science "Materials science")
+* [Microtechnology](http://en.wikipedia.org/wiki/Microtechnology "Microtechnology")
+* [Nanotechnology](http://en.wikipedia.org/wiki/Nanotechnology "Nanotechnology")
+* [Particle physics](http://en.wikipedia.org/wiki/Particle_physics "Particle physics")
+
+Other [engineering](http://en.wikipedia.org/wiki/Engineering "Engineering")[fields](http://en.wikipedia.org/wiki/List_of_engineering_branches "List of engineering branches")
+* [Audio](http://en.wikipedia.org/wiki/Audio_engineering "Audio engineering")
+* [Biochemical](http://en.wikipedia.org/wiki/Biochemical_engineering "Biochemical engineering")
+* [Ceramic](http://en.wikipedia.org/wiki/Ceramic_engineering "Ceramic engineering")
+* [Chemical](http://en.wikipedia.org/wiki/Chemical_engineering "Chemical engineering")
+* [Control](http://en.wikipedia.org/wiki/Control_engineering "Control engineering")
+* [Electrical](http://en.wikipedia.org/wiki/Electrical_engineering "Electrical engineering")
+* [Electronic](http://en.wikipedia.org/wiki/Electronic_engineering "Electronic engineering")
+* [Entertainment](http://en.wikipedia.org/wiki/Entertainment_technology "Entertainment technology")
+* [Geotechnical](http://en.wikipedia.org/wiki/Geotechnical_engineering "Geotechnical engineering")
+* [Hydraulic](http://en.wikipedia.org/wiki/Hydraulic_engineering "Hydraulic engineering")
+* [Mechanical](http://en.wikipedia.org/wiki/Mechanical_engineering "Mechanical engineering")
+* [Mechatronics](http://en.wikipedia.org/wiki/Mechatronics "Mechatronics")
+* [Optical](http://en.wikipedia.org/wiki/Optical_engineering "Optical engineering")
+* [Protein](http://en.wikipedia.org/wiki/Protein_engineering "Protein engineering")
+* [Quantum](http://en.wikipedia.org/wiki/Quantum_technology "Quantum technology")
+* [Robotics](http://en.wikipedia.org/wiki/Robotics "Robotics")
+* [Systems](http://en.wikipedia.org/wiki/Systems_engineering "Systems engineering")
+
+[History](http://en.wikipedia.org/wiki/History_of_technology "History of technology")
+* [Prehistoric technology](http://en.wikipedia.org/wiki/Outline_of_prehistoric_technology "Outline of prehistoric technology")
+* [Neolithic Revolution](http://en.wikipedia.org/wiki/Neolithic_Revolution "Neolithic Revolution")
+* [Ancient technology](http://en.wikipedia.org/wiki/Ancient_technology "Ancient technology")
+* [Medieval technology](http://en.wikipedia.org/wiki/Medieval_technology "Medieval technology")
+* [Renaissance technology](http://en.wikipedia.org/wiki/Renaissance_technology "Renaissance technology")
+* [Industrial Revolution](http://en.wikipedia.org/wiki/Industrial_Revolution "Industrial Revolution")
+    * [Second](http://en.wikipedia.org/wiki/Second_Industrial_Revolution "Second Industrial Revolution")
+
+* [Jet Age](http://en.wikipedia.org/wiki/Jet_Age "Jet Age")
+* [Information Age](http://en.wikipedia.org/wiki/Information_Age "Information Age")
+
+[Theories](http://en.wikipedia.org/wiki/Theories_of_technology "Theories of technology") and  
+ concepts
+* [Appropriate technology](http://en.wikipedia.org/wiki/Appropriate_technology "Appropriate technology")
+* [Critique of technology](http://en.wikipedia.org/wiki/Critique_of_technology "Critique of technology")
+* [Diffusion of innovations](http://en.wikipedia.org/wiki/Diffusion_of_innovations "Diffusion of innovations")
+* [Disruptive innovation](http://en.wikipedia.org/wiki/Disruptive_innovation "Disruptive innovation")
+* [Ephemeralization](http://en.wikipedia.org/wiki/Ephemeralization "Ephemeralization")
+* [Ethics of technology](http://en.wikipedia.org/wiki/Ethics_of_technology "Ethics of technology")
+* [High tech](http://en.wikipedia.org/wiki/High_tech "High tech")
+* [Hype cycle](http://en.wikipedia.org/wiki/Hype_cycle "Hype cycle")
+* [Inevitability thesis](http://en.wikipedia.org/wiki/Inevitability_thesis "Inevitability thesis")
+* [Low-technology](http://en.wikipedia.org/wiki/Low-technology "Low-technology")
+* [Mature technology](http://en.wikipedia.org/wiki/Mature_technology "Mature technology")
+* [Philosophy of technology](http://en.wikipedia.org/wiki/Philosophy_of_technology "Philosophy of technology")
+* [Posthumanism](http://en.wikipedia.org/wiki/Posthumanism "Posthumanism")
+* [Strategy of Technology](http://en.wikipedia.org/wiki/Strategy_of_Technology "Strategy of Technology")
+* [Technicism](http://en.wikipedia.org/wiki/Technicism "Technicism")
+* [Techno-progressivism](http://en.wikipedia.org/wiki/Techno-progressivism "Techno-progressivism")
+* [Technocapitalism](http://en.wikipedia.org/wiki/Technocapitalism "Technocapitalism")
+* [Technocentrism](http://en.wikipedia.org/wiki/Technocentrism "Technocentrism")
+* [Technocracy](http://en.wikipedia.org/wiki/Technocracy "Technocracy")
+* [Technocriticism](http://en.wikipedia.org/wiki/Technocriticism "Technocriticism")
+* [Technological change](http://en.wikipedia.org/wiki/Technological_change "Technological change")
+* [Technological convergence](http://en.wikipedia.org/wiki/Technological_convergence "Technological convergence")
+* [Technological determinism](http://en.wikipedia.org/wiki/Technological_determinism "Technological determinism")
+* [Technological escalation](http://en.wikipedia.org/wiki/Technological_escalation "Technological escalation")
+* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")
+* [Technological fix](http://en.wikipedia.org/wiki/Technological_fix "Technological fix")
+* [Technological innovation system](http://en.wikipedia.org/wiki/Technological_innovation_system "Technological innovation system")
+* [Technological momentum](http://en.wikipedia.org/wiki/Technological_momentum "Technological momentum")
+* [Technological nationalism](http://en.wikipedia.org/wiki/Technological_nationalism "Technological nationalism")
+* [Technological rationality](http://en.wikipedia.org/wiki/Technological_rationality "Technological rationality")
+* [Technological revival](http://en.wikipedia.org/wiki/Technological_revival "Technological revival")
+* **Technological singularity**
+* [Technological somnambulism](http://en.wikipedia.org/wiki/Technological_somnambulism "Technological somnambulism")
+* [Technological utopianism](http://en.wikipedia.org/wiki/Technological_utopianism "Technological utopianism")
+* [Technology lifecycle](http://en.wikipedia.org/wiki/Technology_lifecycle "Technology lifecycle")
+    * [Technology acceptance model](http://en.wikipedia.org/wiki/Technology_acceptance_model "Technology acceptance model")
+    * [Technology adoption lifecycle](http://en.wikipedia.org/wiki/Technology_adoption_lifecycle "Technology adoption lifecycle")
+
+* [Technorealism](http://en.wikipedia.org/wiki/Technorealism "Technorealism")
+* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")
+
+Other
+* [Emerging technologies](http://en.wikipedia.org/wiki/Emerging_technologies "Emerging technologies")
+    * [List](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")
+
+* [Fictional technology](http://en.wikipedia.org/wiki/Fictional_technology "Fictional technology")
+* [High-technology business districts](http://en.wikipedia.org/wiki/Category:High-technology_business_districts "Category:High-technology business districts")
+* [Inventions](http://en.wikipedia.org/wiki/Invention "Invention")
+    * [Timeline](http://en.wikipedia.org/wiki/Timeline_of_historic_inventions "Timeline of historic inventions")
+
+* [Kardashev scale](http://en.wikipedia.org/wiki/Kardashev_scale "Kardashev scale")
+* [List of technologies](http://en.wikipedia.org/wiki/List_of_technologies "List of technologies")
+* [Science and technology by country](http://en.wikipedia.org/wiki/Category:Science_and_technology_by_country "Category:Science and technology by country")
+* [Technology alignment](http://en.wikipedia.org/wiki/Technology_alignment "Technology alignment")
+* [Technology assessment](http://en.wikipedia.org/wiki/Technology_assessment "Technology assessment")
+* [Technology brokering](http://en.wikipedia.org/wiki/Technology_brokering "Technology brokering")
+* [Technology companies](http://en.wikipedia.org/wiki/Category:Technology_companies "Category:Technology companies")
+* [Technology demonstration](http://en.wikipedia.org/wiki/Technology_demonstration "Technology demonstration")
+* [Technology education](http://en.wikipedia.org/wiki/Technology_education "Technology education")
+    * [Technical universities and colleges](http://en.wikipedia.org/wiki/Category:Technical_universities_and_colleges "Category:Technical universities and colleges")
+
+* [Technology governance](http://en.wikipedia.org/wiki/Technology_governance "Technology governance")
+* [Technology integration](http://en.wikipedia.org/wiki/Technology_integration "Technology integration")
+* [Technology journalism](http://en.wikipedia.org/wiki/Technology_journalism "Technology journalism")
+* [Technology management](http://en.wikipedia.org/wiki/Technology_management "Technology management")
+* [Technology shock](http://en.wikipedia.org/wiki/Technology_shock "Technology shock")
+* [Technology strategy](http://en.wikipedia.org/wiki/Technology_strategy "Technology strategy")
+* [Technology and society](http://en.wikipedia.org/wiki/Technology_and_society "Technology and society")
+* [Technology transfer](http://en.wikipedia.org/wiki/Technology_transfer "Technology transfer")
+
+* ![Wikipedia book](//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png)[Book](http://en.wikipedia.org/wiki/Book:Technology "Book:Technology")
+* ![Category](//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png)[Category](http://en.wikipedia.org/wiki/Category:Technology "Category:Technology")
+* ![Commons page](//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/16px-Commons-logo.svg.png)[Commons](//commons.wikimedia.org/wiki/Category:Technology "commons:Category:Technology")
+* ![Portal](//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png)[Portal](http://en.wikipedia.org/wiki/Portal:Technology "Portal:Technology")
+* ![Wikiquote page](//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/16px-Wikiquote-logo.svg.png)[Wikiquotes](//en.wikiquote.org/wiki/Technology "wikiquote:Technology")
+
+* [v](http://en.wikipedia.org/wiki/Template:Emerging_technologies "Template:Emerging technologies")
+* [t](http://en.wikipedia.org/wiki/Template_talk:Emerging_technologies "Template talk:Emerging technologies")
+* [e](//en.wikipedia.org/w/index.php?title=Template:Emerging_technologies&action=edit)
+
+[Emerging technologies](http://en.wikipedia.org/wiki/Emerging_technologies "Emerging technologies")[Technology](http://en.wikipedia.org/wiki/Technology "Technology")Fields[Agriculture](http://en.wikipedia.org/wiki/Agriculture "Agriculture")
+* [Agricultural robot](http://en.wikipedia.org/wiki/Agricultural_robot "Agricultural robot")
+* [In vitro meat](http://en.wikipedia.org/wiki/In_vitro_meat "In vitro meat")
+* [Genetically modified food](http://en.wikipedia.org/wiki/Genetically_modified_food "Genetically modified food")
+* [Precision agriculture](http://en.wikipedia.org/wiki/Precision_agriculture "Precision agriculture")
+* [Vertical farming](http://en.wikipedia.org/wiki/Vertical_farming "Vertical farming")
+
+[Biomedical](http://en.wikipedia.org/wiki/Biomedical_technology "Biomedical technology")
+* [Ampakine](http://en.wikipedia.org/wiki/Ampakine "Ampakine")
+* [Brain transplant](http://en.wikipedia.org/wiki/Brain_transplant "Brain transplant")
+* [Cryonics](http://en.wikipedia.org/wiki/Cryonics "Cryonics")
+* [Full genome sequencing](http://en.wikipedia.org/wiki/Full_genome_sequencing "Full genome sequencing")
+* [Genetic engineering](http://en.wikipedia.org/wiki/Genetic_engineering "Genetic engineering")
     * [Gene therapy](http://en.wikipedia.org/wiki/Gene_therapy "Gene therapy")
-* [Personalized medicine](http://en.wikipedia.org/wiki/Personalized_medicine "Personalized medicine")* 
-[Regenerative medicine](http://en.wikipedia.org/wiki/Regenerative_medicine "Regenerative medicine")
-    * [Stem cell treatments](http://en.wikipedia.org/wiki/Stem_cell_treatments "Stem cell treatments")    * [Tissue engineering](http://en.wikipedia.org/wiki/Tissue_engineering "Tissue engineering")
-* [Head transplant](http://en.wikipedia.org/wiki/Head_transplant "Head transplant")* [Isolated brain](http://en.wikipedia.org/wiki/Isolated_brain "Isolated brain")* [Robotic surgery](http://en.wikipedia.org/wiki/Robotic_surgery "Robotic surgery")* [Strategies for Engineered Negligible Senescence](http://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence "Strategies for Engineered Negligible Senescence")* [Suspended animation](http://en.wikipedia.org/wiki/Suspended_animation "Suspended animation")* 
-[Synthetic biology](http://en.wikipedia.org/wiki/Synthetic_biology "Synthetic biology")
+
+* [Personalized medicine](http://en.wikipedia.org/wiki/Personalized_medicine "Personalized medicine")
+* [Regenerative medicine](http://en.wikipedia.org/wiki/Regenerative_medicine "Regenerative medicine")
+    * [Stem cell treatments](http://en.wikipedia.org/wiki/Stem_cell_treatments "Stem cell treatments")
+    * [Tissue engineering](http://en.wikipedia.org/wiki/Tissue_engineering "Tissue engineering")
+
+* [Head transplant](http://en.wikipedia.org/wiki/Head_transplant "Head transplant")
+* [Isolated brain](http://en.wikipedia.org/wiki/Isolated_brain "Isolated brain")
+* [Robotic surgery](http://en.wikipedia.org/wiki/Robotic_surgery "Robotic surgery")
+* [Strategies for Engineered Negligible Senescence](http://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence "Strategies for Engineered Negligible Senescence")
+* [Suspended animation](http://en.wikipedia.org/wiki/Suspended_animation "Suspended animation")
+* [Synthetic biology](http://en.wikipedia.org/wiki/Synthetic_biology "Synthetic biology")
     * [Synthetic genomics](http://en.wikipedia.org/wiki/Synthetic_genomics "Synthetic genomics")
 
-Displays* [Autostereoscopy](http://en.wikipedia.org/wiki/Autostereoscopy "Autostereoscopy")* [Holographic display](http://en.wikipedia.org/wiki/Holographic_display "Holographic display")* [Next generation of display technology](http://en.wikipedia.org/wiki/Next_generation_of_display_technology "Next generation of display technology")* 
-[Screenless display](http://en.wikipedia.org/wiki/Screenless "Screenless")
-    * [Bionic contact lens](http://en.wikipedia.org/wiki/Bionic_contact_lens "Bionic contact lens")    * [Head-mounted display](http://en.wikipedia.org/wiki/Head-mounted_display "Head-mounted display")    * [Head-up display](http://en.wikipedia.org/wiki/Head-up_display "Head-up display")    * [Virtual retinal display](http://en.wikipedia.org/wiki/Virtual_retinal_display "Virtual retinal display")
-* [Ultra High Definition Television](http://en.wikipedia.org/wiki/Ultra_High_Definition_Television "Ultra High Definition Television")
-Electronics* [Electronic nose](http://en.wikipedia.org/wiki/Electronic_nose "Electronic nose")* [Electronic textile](http://en.wikipedia.org/wiki/Electronic_textile "Electronic textile")* [Flexible electronics](http://en.wikipedia.org/wiki/Flexible_electronics "Flexible electronics")* [Memristor](http://en.wikipedia.org/wiki/Memristor "Memristor")* [Spintronics](http://en.wikipedia.org/wiki/Spintronics "Spintronics")* [Thermal copper pillar bump](http://en.wikipedia.org/wiki/Thermal_copper_pillar_bump "Thermal copper pillar bump")
-Energy* 
-[Energy storage](http://en.wikipedia.org/wiki/Energy_storage "Energy storage")
-    * [Beltway battery](http://en.wikipedia.org/wiki/Beltway_battery "Beltway battery")    * [Compressed air energy storage](http://en.wikipedia.org/wiki/Compressed_air_energy_storage "Compressed air energy storage")    * [Flywheel energy storage](http://en.wikipedia.org/wiki/Flywheel_energy_storage "Flywheel energy storage")    * [Grid energy storage](http://en.wikipedia.org/wiki/Grid_energy_storage "Grid energy storage")    * [Lithium air battery](http://en.wikipedia.org/wiki/Lithium_air_battery "Lithium air battery")    * [Molten salt battery](http://en.wikipedia.org/wiki/Molten_salt_battery "Molten salt battery")    * [Nanowire battery](http://en.wikipedia.org/wiki/Nanowire_battery "Nanowire battery")    * [Silicon air battery](http://en.wikipedia.org/wiki/Silicon_air_battery "Silicon air battery")    * [Thermal energy storage](http://en.wikipedia.org/wiki/Thermal_energy_storage "Thermal energy storage")    * [Ultracapacitor](http://en.wikipedia.org/wiki/Electric_double-layer_capacitor "Electric double-layer capacitor")
-* [Fusion power](http://en.wikipedia.org/wiki/Fusion_power "Fusion power")* [Molten salt reactor](http://en.wikipedia.org/wiki/Molten_salt_reactor "Molten salt reactor")* 
-[Renewable energy](http://en.wikipedia.org/wiki/Renewable_energy "Renewable energy")
-    * [Airborne wind turbine](http://en.wikipedia.org/wiki/Airborne_wind_turbine "Airborne wind turbine")    * [Artificial photosynthesis](http://en.wikipedia.org/wiki/Artificial_photosynthesis "Artificial photosynthesis")    * [Biofuels](http://en.wikipedia.org/wiki/Biofuel "Biofuel")    * [Concentrated solar power](http://en.wikipedia.org/wiki/Concentrated_solar_power "Concentrated solar power")    * [Home fuel cell](http://en.wikipedia.org/wiki/Home_fuel_cell "Home fuel cell")    * [Hydrogen economy](http://en.wikipedia.org/wiki/Hydrogen_economy "Hydrogen economy")    * [Nantenna](http://en.wikipedia.org/wiki/Nantenna "Nantenna")    * [Solar roadway](http://en.wikipedia.org/wiki/Solar_roadway "Solar roadway")    * [Space-based solar power](http://en.wikipedia.org/wiki/Space-based_solar_power "Space-based solar power")
-* [Smart grid](http://en.wikipedia.org/wiki/Smart_grid "Smart grid")* [Wireless energy transfer](http://en.wikipedia.org/wiki/Wireless_energy_transfer "Wireless energy transfer")
-[IT and
-communications](http://en.wikipedia.org/wiki/Information_and_communication_technologies "Information and communication technologies")* 
-[Artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence")
-    * [Applications of artificial intelligence](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence "Applications of artificial intelligence")    * [Progress in artificial intelligence](http://en.wikipedia.org/wiki/Progress_in_artificial_intelligence "Progress in artificial intelligence")    * [Machine translation](http://en.wikipedia.org/wiki/Machine_translation "Machine translation")    * [Machine vision](http://en.wikipedia.org/wiki/Machine_vision "Machine vision")    * [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web "Semantic Web")    * [Speech recognition](http://en.wikipedia.org/wiki/Speech_recognition "Speech recognition")
-* [Atomtronics](http://en.wikipedia.org/wiki/Atomtronics "Atomtronics")* [Cybermethodology](http://en.wikipedia.org/wiki/Cybermethodology "Cybermethodology")* 
-[Fourth-generation optical discs](http://en.wikipedia.org/wiki/Optical_disc#Fourth-generation "Optical disc")
-    * [3D optical data storage](http://en.wikipedia.org/wiki/3D_optical_data_storage "3D optical data storage")    * [Holographic data storage](http://en.wikipedia.org/wiki/Holographic_data_storage "Holographic data storage")
-* [GPGPU](http://en.wikipedia.org/wiki/GPGPU "GPGPU")* Memory
-    * [CBRAM](http://en.wikipedia.org/wiki/CBRAM "CBRAM")    * [FRAM](http://en.wikipedia.org/wiki/Ferroelectric_RAM "Ferroelectric RAM")    * [Millipede](http://en.wikipedia.org/wiki/Millipede_memory "Millipede memory")    * [MRAM](http://en.wikipedia.org/wiki/Magnetoresistive_random-access_memory "Magnetoresistive random-access memory")    * [NRAM](http://en.wikipedia.org/wiki/Nano-RAM "Nano-RAM")    * [PRAM](http://en.wikipedia.org/wiki/Phase-change_memory "Phase-change memory")    * [Racetrack memory](http://en.wikipedia.org/wiki/Racetrack_memory "Racetrack memory")    * [RRAM](http://en.wikipedia.org/wiki/RRAM "RRAM")    * [SONOS](http://en.wikipedia.org/wiki/SONOS "SONOS")
-* [Optical computing](http://en.wikipedia.org/wiki/Optical_computing "Optical computing")* [Quantum computing](http://en.wikipedia.org/wiki/Quantum_computer "Quantum computer")* [Quantum cryptography](http://en.wikipedia.org/wiki/Quantum_cryptography "Quantum cryptography")* [RFID](http://en.wikipedia.org/wiki/Radio-frequency_identification "Radio-frequency identification")* [Three-dimensional integrated circuit](http://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit "Three-dimensional integrated circuit")
-Manufacturing* 
-[3D printing](http://en.wikipedia.org/wiki/3D_printing "3D printing")
-    * [Contour Crafting](http://en.wikipedia.org/wiki/Contour_Crafting "Contour Crafting")
-* [Claytronics](http://en.wikipedia.org/wiki/Claytronics "Claytronics")* [Molecular assembler](http://en.wikipedia.org/wiki/Molecular_assembler "Molecular assembler")* [Utility fog](http://en.wikipedia.org/wiki/Utility_fog "Utility fog")
-[Materials science](http://en.wikipedia.org/wiki/Materials_science "Materials science")* [Graphene](http://en.wikipedia.org/wiki/Graphene "Graphene")* [High-temperature superconductivity](http://en.wikipedia.org/wiki/High-temperature_superconductivity "High-temperature superconductivity")* [High-temperature superfluidity](http://en.wikipedia.org/wiki/Superfluid "Superfluid")* 
-[Metamaterials](http://en.wikipedia.org/wiki/Metamaterial "Metamaterial")
-    * [Metamaterial cloaking](http://en.wikipedia.org/wiki/Metamaterial_cloaking "Metamaterial cloaking")
-* [Multi-function structures](http://en.wikipedia.org/wiki/Multi-function_structure "Multi-function structure")* 
-[Nanotechnology](http://en.wikipedia.org/wiki/Nanotechnology "Nanotechnology")
-    * [Carbon nanotubes](http://en.wikipedia.org/wiki/Carbon_nanotube "Carbon nanotube")    * [Molecular nanotechnology](http://en.wikipedia.org/wiki/Molecular_nanotechnology "Molecular nanotechnology")    * [Nanomaterials](http://en.wikipedia.org/wiki/Nanomaterials "Nanomaterials")
-* [Programmable matter](http://en.wikipedia.org/wiki/Programmable_matter "Programmable matter")* [Quantum dots](http://en.wikipedia.org/wiki/Quantum_dot "Quantum dot")
-[Military](http://en.wikipedia.org/wiki/Military_technology "Military technology")* [Antimatter weapon](http://en.wikipedia.org/wiki/Antimatter_weapon "Antimatter weapon")* 
-[Directed-energy weapon](http://en.wikipedia.org/wiki/Directed-energy_weapon "Directed-energy weapon")
-    * [Laser](http://en.wikipedia.org/wiki/Laser "Laser")    * [Maser](http://en.wikipedia.org/wiki/Maser "Maser")    * [Particle beam weapon](http://en.wikipedia.org/wiki/Particle_beam_weapon "Particle beam weapon")    * [Sonic weapon](http://en.wikipedia.org/wiki/Sonic_weapon "Sonic weapon")
-* 
-[Electromagnetic weapon](http://en.wikipedia.org/wiki/Electromagnetic_weapon "Electromagnetic weapon")
-    * [Coilgun](http://en.wikipedia.org/wiki/Coilgun "Coilgun")    * [Railgun](http://en.wikipedia.org/wiki/Railgun "Railgun")
-* [Plasma weapon](http://en.wikipedia.org/wiki/Plasma_weapon "Plasma weapon")* [Pure fusion weapon](http://en.wikipedia.org/wiki/Pure_fusion_weapon "Pure fusion weapon")
-[Neuroscience](http://en.wikipedia.org/wiki/Neuroscience "Neuroscience")* 
-[Artificial brain](http://en.wikipedia.org/wiki/Artificial_brain "Artificial brain")
-    * [Blue Brain Project](http://en.wikipedia.org/wiki/Blue_Brain_Project "Blue Brain Project")
-* [Electroencephalography](http://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography")* 
-[Mind uploading](http://en.wikipedia.org/wiki/Mind_uploading "Mind uploading")
-    * [Brain-reading](http://en.wikipedia.org/wiki/Brain-reading "Brain-reading")    * [Neuroinformatics](http://en.wikipedia.org/wiki/Neuroinformatics "Neuroinformatics")
-* 
-[Neuroprosthetics](http://en.wikipedia.org/wiki/Neuroprosthetics "Neuroprosthetics")
-    * [Bionic eye](http://en.wikipedia.org/wiki/Visual_prosthesis "Visual prosthesis")    * [Brain implant](http://en.wikipedia.org/wiki/Brain_implant "Brain implant")    * [Exocortex](http://en.wikipedia.org/wiki/Exocortex "Exocortex")    * [Retinal implant](http://en.wikipedia.org/wiki/Retinal_implant "Retinal implant")
+Displays
+* [Autostereoscopy](http://en.wikipedia.org/wiki/Autostereoscopy "Autostereoscopy")
+* [Holographic display](http://en.wikipedia.org/wiki/Holographic_display "Holographic display")
+* [Next generation of display technology](http://en.wikipedia.org/wiki/Next_generation_of_display_technology "Next generation of display technology")
+* [Screenless display](http://en.wikipedia.org/wiki/Screenless "Screenless")
+    * [Bionic contact lens](http://en.wikipedia.org/wiki/Bionic_contact_lens "Bionic contact lens")
+    * [Head-mounted display](http://en.wikipedia.org/wiki/Head-mounted_display "Head-mounted display")
+    * [Head-up display](http://en.wikipedia.org/wiki/Head-up_display "Head-up display")
+    * [Virtual retinal display](http://en.wikipedia.org/wiki/Virtual_retinal_display "Virtual retinal display")
 
-[Robotics](http://en.wikipedia.org/wiki/Future_of_robotics "Future of robotics")* [Nanorobotics](http://en.wikipedia.org/wiki/Nanorobotics "Nanorobotics")* [Powered exoskeleton](http://en.wikipedia.org/wiki/Powered_exoskeleton "Powered exoskeleton")* [Self-reconfiguring modular robot](http://en.wikipedia.org/wiki/Self-reconfiguring_modular_robot "Self-reconfiguring modular robot")* [Swarm robotics](http://en.wikipedia.org/wiki/Swarm_robotics "Swarm robotics")
-Transport* [Adaptive Compliant Wing](http://en.wikipedia.org/wiki/Adaptive_Compliant_Wing "Adaptive Compliant Wing")* 
-[Alternative fuel vehicle](http://en.wikipedia.org/wiki/Alternative_fuel_vehicle "Alternative fuel vehicle")
+* [Ultra High Definition Television](http://en.wikipedia.org/wiki/Ultra_High_Definition_Television "Ultra High Definition Television")
+
+Electronics
+* [Electronic nose](http://en.wikipedia.org/wiki/Electronic_nose "Electronic nose")
+* [Electronic textile](http://en.wikipedia.org/wiki/Electronic_textile "Electronic textile")
+* [Flexible electronics](http://en.wikipedia.org/wiki/Flexible_electronics "Flexible electronics")
+* [Memristor](http://en.wikipedia.org/wiki/Memristor "Memristor")
+* [Spintronics](http://en.wikipedia.org/wiki/Spintronics "Spintronics")
+* [Thermal copper pillar bump](http://en.wikipedia.org/wiki/Thermal_copper_pillar_bump "Thermal copper pillar bump")
+
+Energy
+* [Energy storage](http://en.wikipedia.org/wiki/Energy_storage "Energy storage")
+    * [Beltway battery](http://en.wikipedia.org/wiki/Beltway_battery "Beltway battery")
+    * [Compressed air energy storage](http://en.wikipedia.org/wiki/Compressed_air_energy_storage "Compressed air energy storage")
+    * [Flywheel energy storage](http://en.wikipedia.org/wiki/Flywheel_energy_storage "Flywheel energy storage")
+    * [Grid energy storage](http://en.wikipedia.org/wiki/Grid_energy_storage "Grid energy storage")
+    * [Lithium air battery](http://en.wikipedia.org/wiki/Lithium_air_battery "Lithium air battery")
+    * [Molten salt battery](http://en.wikipedia.org/wiki/Molten_salt_battery "Molten salt battery")
+    * [Nanowire battery](http://en.wikipedia.org/wiki/Nanowire_battery "Nanowire battery")
+    * [Silicon air battery](http://en.wikipedia.org/wiki/Silicon_air_battery "Silicon air battery")
+    * [Thermal energy storage](http://en.wikipedia.org/wiki/Thermal_energy_storage "Thermal energy storage")
+    * [Ultracapacitor](http://en.wikipedia.org/wiki/Electric_double-layer_capacitor "Electric double-layer capacitor")
+
+* [Fusion power](http://en.wikipedia.org/wiki/Fusion_power "Fusion power")
+* [Molten salt reactor](http://en.wikipedia.org/wiki/Molten_salt_reactor "Molten salt reactor")
+* [Renewable energy](http://en.wikipedia.org/wiki/Renewable_energy "Renewable energy")
+    * [Airborne wind turbine](http://en.wikipedia.org/wiki/Airborne_wind_turbine "Airborne wind turbine")
+    * [Artificial photosynthesis](http://en.wikipedia.org/wiki/Artificial_photosynthesis "Artificial photosynthesis")
+    * [Biofuels](http://en.wikipedia.org/wiki/Biofuel "Biofuel")
+    * [Concentrated solar power](http://en.wikipedia.org/wiki/Concentrated_solar_power "Concentrated solar power")
+    * [Home fuel cell](http://en.wikipedia.org/wiki/Home_fuel_cell "Home fuel cell")
+    * [Hydrogen economy](http://en.wikipedia.org/wiki/Hydrogen_economy "Hydrogen economy")
+    * [Nantenna](http://en.wikipedia.org/wiki/Nantenna "Nantenna")
+    * [Solar roadway](http://en.wikipedia.org/wiki/Solar_roadway "Solar roadway")
+    * [Space-based solar power](http://en.wikipedia.org/wiki/Space-based_solar_power "Space-based solar power")
+
+* [Smart grid](http://en.wikipedia.org/wiki/Smart_grid "Smart grid")
+* [Wireless energy transfer](http://en.wikipedia.org/wiki/Wireless_energy_transfer "Wireless energy transfer")
+
+[IT and
+communications](http://en.wikipedia.org/wiki/Information_and_communication_technologies "Information and communication technologies")
+* [Artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence")
+    * [Applications of artificial intelligence](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence "Applications of artificial intelligence")
+    * [Progress in artificial intelligence](http://en.wikipedia.org/wiki/Progress_in_artificial_intelligence "Progress in artificial intelligence")
+    * [Machine translation](http://en.wikipedia.org/wiki/Machine_translation "Machine translation")
+    * [Machine vision](http://en.wikipedia.org/wiki/Machine_vision "Machine vision")
+    * [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web "Semantic Web")
+    * [Speech recognition](http://en.wikipedia.org/wiki/Speech_recognition "Speech recognition")
+
+* [Atomtronics](http://en.wikipedia.org/wiki/Atomtronics "Atomtronics")
+* [Cybermethodology](http://en.wikipedia.org/wiki/Cybermethodology "Cybermethodology")
+* [Fourth-generation optical discs](http://en.wikipedia.org/wiki/Optical_disc#Fourth-generation "Optical disc")
+    * [3D optical data storage](http://en.wikipedia.org/wiki/3D_optical_data_storage "3D optical data storage")
+    * [Holographic data storage](http://en.wikipedia.org/wiki/Holographic_data_storage "Holographic data storage")
+
+* [GPGPU](http://en.wikipedia.org/wiki/GPGPU "GPGPU")
+* Memory
+    * [CBRAM](http://en.wikipedia.org/wiki/CBRAM "CBRAM")
+    * [FRAM](http://en.wikipedia.org/wiki/Ferroelectric_RAM "Ferroelectric RAM")
+    * [Millipede](http://en.wikipedia.org/wiki/Millipede_memory "Millipede memory")
+    * [MRAM](http://en.wikipedia.org/wiki/Magnetoresistive_random-access_memory "Magnetoresistive random-access memory")
+    * [NRAM](http://en.wikipedia.org/wiki/Nano-RAM "Nano-RAM")
+    * [PRAM](http://en.wikipedia.org/wiki/Phase-change_memory "Phase-change memory")
+    * [Racetrack memory](http://en.wikipedia.org/wiki/Racetrack_memory "Racetrack memory")
+    * [RRAM](http://en.wikipedia.org/wiki/RRAM "RRAM")
+    * [SONOS](http://en.wikipedia.org/wiki/SONOS "SONOS")
+
+* [Optical computing](http://en.wikipedia.org/wiki/Optical_computing "Optical computing")
+* [Quantum computing](http://en.wikipedia.org/wiki/Quantum_computer "Quantum computer")
+* [Quantum cryptography](http://en.wikipedia.org/wiki/Quantum_cryptography "Quantum cryptography")
+* [RFID](http://en.wikipedia.org/wiki/Radio-frequency_identification "Radio-frequency identification")
+* [Three-dimensional integrated circuit](http://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit "Three-dimensional integrated circuit")
+
+Manufacturing
+* [3D printing](http://en.wikipedia.org/wiki/3D_printing "3D printing")
+    * [Contour Crafting](http://en.wikipedia.org/wiki/Contour_Crafting "Contour Crafting")
+
+* [Claytronics](http://en.wikipedia.org/wiki/Claytronics "Claytronics")
+* [Molecular assembler](http://en.wikipedia.org/wiki/Molecular_assembler "Molecular assembler")
+* [Utility fog](http://en.wikipedia.org/wiki/Utility_fog "Utility fog")
+
+[Materials science](http://en.wikipedia.org/wiki/Materials_science "Materials science")
+* [Graphene](http://en.wikipedia.org/wiki/Graphene "Graphene")
+* [High-temperature superconductivity](http://en.wikipedia.org/wiki/High-temperature_superconductivity "High-temperature superconductivity")
+* [High-temperature superfluidity](http://en.wikipedia.org/wiki/Superfluid "Superfluid")
+* [Metamaterials](http://en.wikipedia.org/wiki/Metamaterial "Metamaterial")
+    * [Metamaterial cloaking](http://en.wikipedia.org/wiki/Metamaterial_cloaking "Metamaterial cloaking")
+
+* [Multi-function structures](http://en.wikipedia.org/wiki/Multi-function_structure "Multi-function structure")
+* [Nanotechnology](http://en.wikipedia.org/wiki/Nanotechnology "Nanotechnology")
+    * [Carbon nanotubes](http://en.wikipedia.org/wiki/Carbon_nanotube "Carbon nanotube")
+    * [Molecular nanotechnology](http://en.wikipedia.org/wiki/Molecular_nanotechnology "Molecular nanotechnology")
+    * [Nanomaterials](http://en.wikipedia.org/wiki/Nanomaterials "Nanomaterials")
+
+* [Programmable matter](http://en.wikipedia.org/wiki/Programmable_matter "Programmable matter")
+* [Quantum dots](http://en.wikipedia.org/wiki/Quantum_dot "Quantum dot")
+
+[Military](http://en.wikipedia.org/wiki/Military_technology "Military technology")
+* [Antimatter weapon](http://en.wikipedia.org/wiki/Antimatter_weapon "Antimatter weapon")
+* [Directed-energy weapon](http://en.wikipedia.org/wiki/Directed-energy_weapon "Directed-energy weapon")
+    * [Laser](http://en.wikipedia.org/wiki/Laser "Laser")
+    * [Maser](http://en.wikipedia.org/wiki/Maser "Maser")
+    * [Particle beam weapon](http://en.wikipedia.org/wiki/Particle_beam_weapon "Particle beam weapon")
+    * [Sonic weapon](http://en.wikipedia.org/wiki/Sonic_weapon "Sonic weapon")
+
+* [Electromagnetic weapon](http://en.wikipedia.org/wiki/Electromagnetic_weapon "Electromagnetic weapon")
+    * [Coilgun](http://en.wikipedia.org/wiki/Coilgun "Coilgun")
+    * [Railgun](http://en.wikipedia.org/wiki/Railgun "Railgun")
+
+* [Plasma weapon](http://en.wikipedia.org/wiki/Plasma_weapon "Plasma weapon")
+* [Pure fusion weapon](http://en.wikipedia.org/wiki/Pure_fusion_weapon "Pure fusion weapon")
+
+[Neuroscience](http://en.wikipedia.org/wiki/Neuroscience "Neuroscience")
+* [Artificial brain](http://en.wikipedia.org/wiki/Artificial_brain "Artificial brain")
+    * [Blue Brain Project](http://en.wikipedia.org/wiki/Blue_Brain_Project "Blue Brain Project")
+
+* [Electroencephalography](http://en.wikipedia.org/wiki/Electroencephalography "Electroencephalography")
+* [Mind uploading](http://en.wikipedia.org/wiki/Mind_uploading "Mind uploading")
+    * [Brain-reading](http://en.wikipedia.org/wiki/Brain-reading "Brain-reading")
+    * [Neuroinformatics](http://en.wikipedia.org/wiki/Neuroinformatics "Neuroinformatics")
+
+* [Neuroprosthetics](http://en.wikipedia.org/wiki/Neuroprosthetics "Neuroprosthetics")
+    * [Bionic eye](http://en.wikipedia.org/wiki/Visual_prosthesis "Visual prosthesis")
+    * [Brain implant](http://en.wikipedia.org/wiki/Brain_implant "Brain implant")
+    * [Exocortex](http://en.wikipedia.org/wiki/Exocortex "Exocortex")
+    * [Retinal implant](http://en.wikipedia.org/wiki/Retinal_implant "Retinal implant")
+
+[Robotics](http://en.wikipedia.org/wiki/Future_of_robotics "Future of robotics")
+* [Nanorobotics](http://en.wikipedia.org/wiki/Nanorobotics "Nanorobotics")
+* [Powered exoskeleton](http://en.wikipedia.org/wiki/Powered_exoskeleton "Powered exoskeleton")
+* [Self-reconfiguring modular robot](http://en.wikipedia.org/wiki/Self-reconfiguring_modular_robot "Self-reconfiguring modular robot")
+* [Swarm robotics](http://en.wikipedia.org/wiki/Swarm_robotics "Swarm robotics")
+
+Transport
+* [Adaptive Compliant Wing](http://en.wikipedia.org/wiki/Adaptive_Compliant_Wing "Adaptive Compliant Wing")
+* [Alternative fuel vehicle](http://en.wikipedia.org/wiki/Alternative_fuel_vehicle "Alternative fuel vehicle")
     * [Hydrogen vehicle](http://en.wikipedia.org/wiki/Hydrogen_vehicle "Hydrogen vehicle")
-* [Backpack helicopter](http://en.wikipedia.org/wiki/Backpack_helicopter "Backpack helicopter")* [Driverless car](http://en.wikipedia.org/wiki/Autonomous_car "Autonomous car")* [Flying car](http://en.wikipedia.org/wiki/Flying_car_(aircraft) "Flying car (aircraft)")* [Ground effect train](http://en.wikipedia.org/wiki/Ground_effect_train "Ground effect train")* [Jet pack](http://en.wikipedia.org/wiki/Jet_pack "Jet pack")* [Interstellar travel](http://en.wikipedia.org/wiki/Interstellar_travel "Interstellar travel")* [Laser propulsion](http://en.wikipedia.org/wiki/Laser_propulsion "Laser propulsion")* [Maglev train](http://en.wikipedia.org/wiki/Maglev "Maglev")* 
-[Non-rocket spacelaunch](http://en.wikipedia.org/wiki/Non-rocket_spacelaunch "Non-rocket spacelaunch")
-    * [Mass driver](http://en.wikipedia.org/wiki/Mass_driver "Mass driver")    * [Orbital ring](http://en.wikipedia.org/wiki/Orbital_ring "Orbital ring")    * [Skyhook](http://en.wikipedia.org/wiki/Skyhook_(structure) "Skyhook (structure)")    * [Space elevator](http://en.wikipedia.org/wiki/Space_elevator "Space elevator")    * [Space fountain](http://en.wikipedia.org/wiki/Space_fountain "Space fountain")    * [Space tether](http://en.wikipedia.org/wiki/Space_tether "Space tether")
-* [Personal rapid transit](http://en.wikipedia.org/wiki/Personal_rapid_transit "Personal rapid transit")* [Pulse detonation engine](http://en.wikipedia.org/wiki/Pulse_detonation_engine "Pulse detonation engine")* [Nuclear pulse propulsion](http://en.wikipedia.org/wiki/Nuclear_pulse_propulsion "Nuclear pulse propulsion")* [Scramjet](http://en.wikipedia.org/wiki/Scramjet "Scramjet")* [Solar sail](http://en.wikipedia.org/wiki/Solar_sail "Solar sail")* [Spaceplane](http://en.wikipedia.org/wiki/Spaceplane "Spaceplane")* [Supersonic transport](http://en.wikipedia.org/wiki/Supersonic_transport "Supersonic transport")* [Tweel](http://en.wikipedia.org/wiki/Tweel "Tweel")* [Vactrain](http://en.wikipedia.org/wiki/Vactrain "Vactrain")
-Other* [Anti-gravity](http://en.wikipedia.org/wiki/Anti-gravity "Anti-gravity")* [Arcology](http://en.wikipedia.org/wiki/Arcology "Arcology")* [Cloak of invisibility](http://en.wikipedia.org/wiki/Cloak_of_invisibility "Cloak of invisibility")* [Digital scent technology](http://en.wikipedia.org/wiki/Digital_scent_technology "Digital scent technology")* [Domed city](http://en.wikipedia.org/wiki/Domed_city "Domed city")* 
-[Force field](http://en.wikipedia.org/wiki/Force_shield "Force shield")
+
+* [Backpack helicopter](http://en.wikipedia.org/wiki/Backpack_helicopter "Backpack helicopter")
+* [Driverless car](http://en.wikipedia.org/wiki/Autonomous_car "Autonomous car")
+* [Flying car](http://en.wikipedia.org/wiki/Flying_car_(aircraft) "Flying car (aircraft)")
+* [Ground effect train](http://en.wikipedia.org/wiki/Ground_effect_train "Ground effect train")
+* [Jet pack](http://en.wikipedia.org/wiki/Jet_pack "Jet pack")
+* [Interstellar travel](http://en.wikipedia.org/wiki/Interstellar_travel "Interstellar travel")
+* [Laser propulsion](http://en.wikipedia.org/wiki/Laser_propulsion "Laser propulsion")
+* [Maglev train](http://en.wikipedia.org/wiki/Maglev "Maglev")
+* [Non-rocket spacelaunch](http://en.wikipedia.org/wiki/Non-rocket_spacelaunch "Non-rocket spacelaunch")
+    * [Mass driver](http://en.wikipedia.org/wiki/Mass_driver "Mass driver")
+    * [Orbital ring](http://en.wikipedia.org/wiki/Orbital_ring "Orbital ring")
+    * [Skyhook](http://en.wikipedia.org/wiki/Skyhook_(structure) "Skyhook (structure)")
+    * [Space elevator](http://en.wikipedia.org/wiki/Space_elevator "Space elevator")
+    * [Space fountain](http://en.wikipedia.org/wiki/Space_fountain "Space fountain")
+    * [Space tether](http://en.wikipedia.org/wiki/Space_tether "Space tether")
+
+* [Personal rapid transit](http://en.wikipedia.org/wiki/Personal_rapid_transit "Personal rapid transit")
+* [Pulse detonation engine](http://en.wikipedia.org/wiki/Pulse_detonation_engine "Pulse detonation engine")
+* [Nuclear pulse propulsion](http://en.wikipedia.org/wiki/Nuclear_pulse_propulsion "Nuclear pulse propulsion")
+* [Scramjet](http://en.wikipedia.org/wiki/Scramjet "Scramjet")
+* [Solar sail](http://en.wikipedia.org/wiki/Solar_sail "Solar sail")
+* [Spaceplane](http://en.wikipedia.org/wiki/Spaceplane "Spaceplane")
+* [Supersonic transport](http://en.wikipedia.org/wiki/Supersonic_transport "Supersonic transport")
+* [Tweel](http://en.wikipedia.org/wiki/Tweel "Tweel")
+* [Vactrain](http://en.wikipedia.org/wiki/Vactrain "Vactrain")
+
+Other
+* [Anti-gravity](http://en.wikipedia.org/wiki/Anti-gravity "Anti-gravity")
+* [Arcology](http://en.wikipedia.org/wiki/Arcology "Arcology")
+* [Cloak of invisibility](http://en.wikipedia.org/wiki/Cloak_of_invisibility "Cloak of invisibility")
+* [Digital scent technology](http://en.wikipedia.org/wiki/Digital_scent_technology "Digital scent technology")
+* [Domed city](http://en.wikipedia.org/wiki/Domed_city "Domed city")
+* [Force field](http://en.wikipedia.org/wiki/Force_shield "Force shield")
     * [Plasma window](http://en.wikipedia.org/wiki/Plasma_window "Plasma window")
-* [Immersive virtual reality](http://en.wikipedia.org/wiki/Immersion_(virtual_reality) "Immersion (virtual reality)")* [Magnetic refrigeration](http://en.wikipedia.org/wiki/Magnetic_refrigeration "Magnetic refrigeration")* [Phased-array optics](http://en.wikipedia.org/wiki/Phased-array_optics "Phased-array optics")* 
-[Quantum technology](http://en.wikipedia.org/wiki/Quantum_technology "Quantum technology")
+
+* [Immersive virtual reality](http://en.wikipedia.org/wiki/Immersion_(virtual_reality) "Immersion (virtual reality)")
+* [Magnetic refrigeration](http://en.wikipedia.org/wiki/Magnetic_refrigeration "Magnetic refrigeration")
+* [Phased-array optics](http://en.wikipedia.org/wiki/Phased-array_optics "Phased-array optics")
+* [Quantum technology](http://en.wikipedia.org/wiki/Quantum_technology "Quantum technology")
     * [Quantum teleportation](http://en.wikipedia.org/wiki/Quantum_teleportation "Quantum teleportation")
 
-Other* [Collingridge dilemma](http://en.wikipedia.org/wiki/Collingridge_dilemma "Collingridge dilemma")* [Differential technological development](http://en.wikipedia.org/wiki/Differential_technological_development "Differential technological development")* [Ephemeralization](http://en.wikipedia.org/wiki/Ephemeralization "Ephemeralization")* [Exploratory engineering](http://en.wikipedia.org/wiki/Exploratory_engineering "Exploratory engineering")* [Fictional technology](http://en.wikipedia.org/wiki/Fictional_technology "Fictional technology")* [Technological change](http://en.wikipedia.org/wiki/Technological_change "Technological change")* [Technological convergence](http://en.wikipedia.org/wiki/Technological_convergence "Technological convergence")* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")* [Technological unemployment](http://en.wikipedia.org/wiki/Technological_unemployment "Technological unemployment")* 
-[Technology forecasting](http://en.wikipedia.org/wiki/Technology_forecasting "Technology forecasting")
-    * [Accelerating change](http://en.wikipedia.org/wiki/Accelerating_change "Accelerating change")    * [Moore's law](http://en.wikipedia.org/wiki/Moore%27s_law "Moore's law")    * [Timeline of the future in forecasts](http://en.wikipedia.org/wiki/Timeline_of_the_future_in_forecasts "Timeline of the future in forecasts")    * **Technological singularity**    * [Technology scouting](http://en.wikipedia.org/wiki/Technology_scouting "Technology scouting")
-* [Technology readiness level](http://en.wikipedia.org/wiki/Technology_readiness_level "Technology readiness level")* [Technology roadmap](http://en.wikipedia.org/wiki/Technology_roadmap "Technology roadmap")* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")* [Virtusphere](http://en.wikipedia.org/wiki/Virtusphere "Virtusphere")
-* 
-![Category](//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png)[Category](http://en.wikipedia.org/wiki/Category:Emerging_technologies "Category:Emerging technologies")
-* 
-![List-Class article](//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png)[List](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")
+Other
+* [Collingridge dilemma](http://en.wikipedia.org/wiki/Collingridge_dilemma "Collingridge dilemma")
+* [Differential technological development](http://en.wikipedia.org/wiki/Differential_technological_development "Differential technological development")
+* [Ephemeralization](http://en.wikipedia.org/wiki/Ephemeralization "Ephemeralization")
+* [Exploratory engineering](http://en.wikipedia.org/wiki/Exploratory_engineering "Exploratory engineering")
+* [Fictional technology](http://en.wikipedia.org/wiki/Fictional_technology "Fictional technology")
+* [Technological change](http://en.wikipedia.org/wiki/Technological_change "Technological change")
+* [Technological convergence](http://en.wikipedia.org/wiki/Technological_convergence "Technological convergence")
+* [Technological evolution](http://en.wikipedia.org/wiki/Technological_evolution "Technological evolution")
+* [Technological unemployment](http://en.wikipedia.org/wiki/Technological_unemployment "Technological unemployment")
+* [Technology forecasting](http://en.wikipedia.org/wiki/Technology_forecasting "Technology forecasting")
+    * [Accelerating change](http://en.wikipedia.org/wiki/Accelerating_change "Accelerating change")
+    * [Moore's law](http://en.wikipedia.org/wiki/Moore%27s_law "Moore's law")
+    * [Timeline of the future in forecasts](http://en.wikipedia.org/wiki/Timeline_of_the_future_in_forecasts "Timeline of the future in forecasts")
+    * **Technological singularity**
+    * [Technology scouting](http://en.wikipedia.org/wiki/Technology_scouting "Technology scouting")
 
- Retrieved from "[http://en.wikipedia.org/w/index.php?title=Technological_singularity&oldid=508241134](http://en.wikipedia.org/w/index.php?title=Technological_singularity&oldid=508241134)" [Categories](http://en.wikipedia.org/wiki/Special:Categories "Special:Categories"): * [Eschatology](http://en.wikipedia.org/wiki/Category:Eschatology "Category:Eschatology")* [Evolution](http://en.wikipedia.org/wiki/Category:Evolution "Category:Evolution")* [Futurology](http://en.wikipedia.org/wiki/Category:Futurology "Category:Futurology")* [Philosophy of artificial intelligence](http://en.wikipedia.org/wiki/Category:Philosophy_of_artificial_intelligence "Category:Philosophy of artificial intelligence")* [Singularitarianism](http://en.wikipedia.org/wiki/Category:Singularitarianism "Category:Singularitarianism")* [Sociocultural evolution](http://en.wikipedia.org/wiki/Category:Sociocultural_evolution "Category:Sociocultural evolution")* [Theories of history](http://en.wikipedia.org/wiki/Category:Theories_of_history "Category:Theories of history")
-Hidden categories: * [All articles with dead external links](http://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links "Category:All articles with dead external links")* [Articles with dead external links from July 2011](http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2011 "Category:Articles with dead external links from July 2011")* [All articles with unsourced statements](http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements "Category:All articles with unsourced statements")* [Articles with unsourced statements from July 2012](http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_July_2012 "Category:Articles with unsourced statements from July 2012")* [Articles with unsourced statements from November 2010](http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_November_2010 "Category:Articles with unsourced statements from November 2010")* [Articles with dead external links from July 2009](http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2009 "Category:Articles with dead external links from July 2009")* [Wikipedia external links cleanup from March 2011](http://en.wikipedia.org/wiki/Category:Wikipedia_external_links_cleanup_from_March_2011 "Category:Wikipedia external links cleanup from March 2011")* [Wikipedia spam cleanup from March 2011](http://en.wikipedia.org/wiki/Category:Wikipedia_spam_cleanup_from_March_2011 "Category:Wikipedia spam cleanup from March 2011")* [Spoken articles](http://en.wikipedia.org/wiki/Category:Spoken_articles "Category:Spoken articles")* [Articles with hAudio microformats](http://en.wikipedia.org/wiki/Category:Articles_with_hAudio_microformats "Category:Articles with hAudio microformats")
+* [Technology readiness level](http://en.wikipedia.org/wiki/Technology_readiness_level "Technology readiness level")
+* [Technology roadmap](http://en.wikipedia.org/wiki/Technology_roadmap "Technology roadmap")
+* [Transhumanism](http://en.wikipedia.org/wiki/Transhumanism "Transhumanism")
+* [Virtusphere](http://en.wikipedia.org/wiki/Virtusphere "Virtusphere")
+
+* ![Category](//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png)[Category](http://en.wikipedia.org/wiki/Category:Emerging_technologies "Category:Emerging technologies")
+* ![List-Class article](//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png)[List](http://en.wikipedia.org/wiki/List_of_emerging_technologies "List of emerging technologies")
+
+ Retrieved from "[http://en.wikipedia.org/w/index.php?title=Technological_singularity&oldid=508241134](http://en.wikipedia.org/w/index.php?title=Technological_singularity&oldid=508241134)" [Categories](http://en.wikipedia.org/wiki/Special:Categories "Special:Categories"): 
+* [Eschatology](http://en.wikipedia.org/wiki/Category:Eschatology "Category:Eschatology")
+* [Evolution](http://en.wikipedia.org/wiki/Category:Evolution "Category:Evolution")
+* [Futurology](http://en.wikipedia.org/wiki/Category:Futurology "Category:Futurology")
+* [Philosophy of artificial intelligence](http://en.wikipedia.org/wiki/Category:Philosophy_of_artificial_intelligence "Category:Philosophy of artificial intelligence")
+* [Singularitarianism](http://en.wikipedia.org/wiki/Category:Singularitarianism "Category:Singularitarianism")
+* [Sociocultural evolution](http://en.wikipedia.org/wiki/Category:Sociocultural_evolution "Category:Sociocultural evolution")
+* [Theories of history](http://en.wikipedia.org/wiki/Category:Theories_of_history "Category:Theories of history")
+
+Hidden categories: 
+* [All articles with dead external links](http://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links "Category:All articles with dead external links")
+* [Articles with dead external links from July 2011](http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2011 "Category:Articles with dead external links from July 2011")
+* [All articles with unsourced statements](http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements "Category:All articles with unsourced statements")
+* [Articles with unsourced statements from July 2012](http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_July_2012 "Category:Articles with unsourced statements from July 2012")
+* [Articles with unsourced statements from November 2010](http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_November_2010 "Category:Articles with unsourced statements from November 2010")
+* [Articles with dead external links from July 2009](http://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2009 "Category:Articles with dead external links from July 2009")
+* [Wikipedia external links cleanup from March 2011](http://en.wikipedia.org/wiki/Category:Wikipedia_external_links_cleanup_from_March_2011 "Category:Wikipedia external links cleanup from March 2011")
+* [Wikipedia spam cleanup from March 2011](http://en.wikipedia.org/wiki/Category:Wikipedia_spam_cleanup_from_March_2011 "Category:Wikipedia spam cleanup from March 2011")
+* [Spoken articles](http://en.wikipedia.org/wiki/Category:Spoken_articles "Category:Spoken articles")
+* [Articles with hAudio microformats](http://en.wikipedia.org/wiki/Category:Articles_with_hAudio_microformats "Category:Articles with hAudio microformats")
+
 * * *
  This page was forked with permission from [http://en.wikipedia.org/wiki/Technological_singularity](http://en.wikipedia.org/wiki/Technological_singularity)* * *
