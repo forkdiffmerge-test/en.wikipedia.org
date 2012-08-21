@@ -1,4 +1,5 @@
-<a id="top"></a># Technological singularity
+<a id="top"></a>
+# Technological singularity
 From Wikipedia, the free encyclopedia Jump to: [navigation](#mw-head), [search](#p-search) The technological singularity is the hypothetical future emergence of greater-than-human [superintelligence](http://en.wikipedia.org/wiki/Superintelligence "Superintelligence") through technological means.[[1]](#cite_note-0) Since the capabilities of such intelligence would be difficult for an unaided human mind to comprehend, the occurrence of a technological singularity is seen as an intellectual [event horizon](http://en.wikipedia.org/wiki/Event_horizon "Event horizon"), beyond which events cannot be predicted or understood.
 
 Proponents of the singularity typically state that an "intelligence explosion",[[2]](#cite_note-Singularity.2C_Intelligence_Explosion_2010-1)[[3]](#cite_note-2) where superintelligences design successive generations of increasingly powerful minds, might occur very quickly and might not stop until the agent's cognitive abilities greatly surpass that of any human.
